@@ -1,0 +1,2481 @@
+Nombre;Edad;Equipo;Estado Civil;Nivel de Estudios
+Santiago;30;Independiente;Soltero;Primario
+Pedro;46;River;Divorciado;Secundario
+Nicolás;26;River;Soltero;Secundario
+Juan;45;San Lorenzo;Soltero;Secundario
+Juan;58;Independiente;Soltero;Universitario
+Matías;40;Independiente;Casado;Universitario
+Ana;53;River;Soltero;Secundario
+José;68;Estudiantes;Soltero;Secundario
+Federico;23;Estudiantes;Casado;Terciario
+María;52;Racing;Soltero;Secundario
+Santiago;50;Independiente;Casado;Secundario
+Nicolás;37;Estudiantes;Casado;Secundario
+Matías;35;San Lorenzo;Divorciado;Universitario
+Juan;56;River;Soltero;Universitario
+Lucas;42;Boca;Viudo;Universitario
+Martín;39;River;Viudo;Primario
+Juan;26;Independiente;Soltero;Primario
+Daniel;20;Boca;Soltero;Secundario
+Juan;25;Boca;Soltero;Secundario
+Nicolás;72;Boca;Divorciado;Universitario
+Martín;58;Estudiantes;Casado;Universitario
+Juan;22;Boca;Soltero;Secundario
+Federico;51;Boca;Divorciado;Secundario
+Juan;38;Independiente;Viudo;Universitario
+Ana;37;Independiente;Casado;Universitario
+Santiago;54;Huracán;Soltero;Secundario
+Sofía;17;Independiente;Soltero;Primario
+María;59;River;Casado;Secundario
+Sofía;27;River;Soltero;Universitario
+Sofía;22;Huracán;Viudo;Secundario
+Martín;36;Rosario Central;Divorciado;Primario
+Matías;25;Racing;Casado;Primario
+Pedro;68;Rosario Central;Soltero;Primario
+Daniel;27;Racing;Divorciado;Universitario
+Martín;43;Racing;Viudo;Secundario
+Lucía;33;Racing;Casado;Universitario
+Pedro;29;Newells;Viudo;Universitario
+Ana;40;Racing;Soltero;Primario
+Daniel;32;River;Divorciado;Primario
+Martín;21;Independiente;Divorciado;Secundario
+Juan;58;Argentinos Juniors;Viudo;Universitario
+Juan;61;River;Soltero;Secundario
+María;29;River;Divorciado;Primario
+Martín;37;Boca;Soltero;Universitario
+Nicolás;49;Racing;Soltero;Primario
+Nicolás;26;Independiente;Divorciado;Universitario
+Daniel;67;River;Casado;Universitario
+Lucas;27;Rosario Central;Casado;Primario
+María;32;Boca;Viudo;Terciario
+Matías;42;Independiente;Viudo;Universitario
+Juan;47;Newells;Soltero;Primario
+Juan;48;Boca;Viudo;Universitario
+Matías;29;Boca;Divorciado;Secundario
+Juan;45;River;Soltero;Universitario
+Sofía;40;Boca;Soltero;Secundario
+Lucía;36;Boca;Casado;Primario
+Martín;41;Boca;Soltero;Primario
+Valentina;53;Independiente;Viudo;Terciario
+Lucía;27;River;Viudo;Primario
+Ana;40;Boca;Casado;Terciario
+Lucas;43;Rosario Central;Soltero;Universitario
+María;57;River;Soltero;Primario
+Santiago;27;Newells;Soltero;Secundario
+María;77;Independiente;Divorciado;Universitario
+Lucas;60;Racing;Viudo;Universitario
+Nicolás;40;River;Soltero;Terciario
+Sofía;32;River;Casado;Terciario
+Lucas;41;River;Divorciado;Terciario
+Martín;25;Boca;Casado;Primario
+Matías;70;Boca;Soltero;Secundario
+Lucas;23;River;Casado;Secundario
+Martín;24;Boca;Soltero;Terciario
+Martín;44;Boca;Divorciado;Universitario
+Nicolás;55;River;Soltero;Universitario
+Daniel;49;Racing;Viudo;Universitario
+Lucas;60;Boca;Soltero;Terciario
+Lucía;63;Boca;Casado;Secundario
+Lucía;48;Independiente;Casado;Universitario
+Martín;39;Vélez;Casado;Secundario
+Ana;55;Huracán;Casado;Secundario
+Lucas;51;Independiente;Casado;Secundario
+Camila;33;Racing;Viudo;Primario
+Juan;63;Boca;Casado;Secundario
+Lucía;80;River;Divorciado;Universitario
+Santiago;79;Independiente;Divorciado;Secundario
+Nicolás;47;Boca;Viudo;Primario
+Lucas;17;Boca;Soltero;Primario
+María;23;Racing;Viudo;Secundario
+Juan;33;Racing;Casado;Universitario
+Santiago;55;Racing;Casado;Secundario
+Sofía;47;Boca;Soltero;Universitario
+Lucas;66;River;Soltero;Universitario
+Lucas;39;Estudiantes;Casado;Secundario
+Pedro;71;Boca;Soltero;Terciario
+Lucas;52;Boca;Divorciado;Secundario
+Camila;74;Vélez;Soltero;Secundario
+Santiago;37;Racing;Soltero;Universitario
+Juan;39;River;Casado;Primario
+Juan;18;Boca;Soltero;Secundario
+María;51;Huracán;Soltero;Secundario
+Juan;29;Boca;Soltero;Secundario
+Sofía;58;Boca;Divorciado;Terciario
+María;38;San Lorenzo;Divorciado;Primario
+Martín;76;Rosario Central;Soltero;Universitario
+José;34;Independiente;Casado;Terciario
+Martín;74;Boca;Soltero;Universitario
+Martín;50;Gimnasia LP;Viudo;Universitario
+Federico;69;River;Soltero;Primario
+Daniel;36;Boca;Viudo;Terciario
+Lucas;36;River;Casado;Universitario
+Valentina;16;River;Soltero;Primario
+María;33;Gimnasia LP;Soltero;Universitario
+Ana;61;River;Soltero;Universitario
+Santiago;23;Independiente;Soltero;Universitario
+Lucía;41;Estudiantes;Divorciado;Universitario
+Nicolás;47;Huracán;Soltero;Terciario
+Juan;26;San Lorenzo;Soltero;Secundario
+Daniel;50;Independiente;Viudo;Universitario
+Juan;53;Vélez;Divorciado;Secundario
+Nicolás;21;River;Casado;Secundario
+Nicolás;36;Boca;Soltero;Primario
+Juan;29;Racing;Viudo;Universitario
+Lucas;39;Newells;Soltero;Primario
+Sofía;37;Racing;Soltero;Universitario
+Nicolás;73;San Lorenzo;Casado;Terciario
+Lucas;70;Boca;Casado;Universitario
+María;61;River;Divorciado;Universitario
+María;74;River;Viudo;Universitario
+Martín;32;River;Divorciado;Terciario
+Juan;61;Independiente;Soltero;Secundario
+Nicolás;35;River;Soltero;Secundario
+Martín;29;Rosario Central;Divorciado;Secundario
+Matías;18;River;Soltero;Secundario
+José;76;Racing;Casado;Primario
+Martín;20;San Lorenzo;Soltero;Secundario
+Juan;32;Boca;Viudo;Universitario
+Juan;47;Independiente;Divorciado;Secundario
+Juan;57;Estudiantes;Viudo;Universitario
+Pedro;46;San Lorenzo;Viudo;Secundario
+Juan;32;River;Divorciado;Terciario
+Daniel;51;Estudiantes;Soltero;Primario
+Juan;43;Boca;Casado;Secundario
+María;23;River;Soltero;Terciario
+Santiago;42;Racing;Divorciado;Universitario
+Santiago;38;River;Casado;Secundario
+Lucía;63;River;Casado;Secundario
+Martín;50;Boca;Casado;Terciario
+Ana;31;Independiente;Soltero;Terciario
+Santiago;51;San Lorenzo;Soltero;Universitario
+Juan;24;Gimnasia LP;Casado;Terciario
+Federico;63;Newells;Casado;Secundario
+Camila;37;Gimnasia LP;Divorciado;Terciario
+Daniel;33;River;Casado;Universitario
+Matías;54;Racing;Soltero;Universitario
+Pedro;57;Boca;Viudo;Universitario
+Martín;37;Estudiantes;Casado;Secundario
+Valentina;59;Vélez;Casado;Secundario
+Martín;74;Boca;Casado;Terciario
+Martín;73;Racing;Soltero;Terciario
+Juan;53;River;Casado;Terciario
+Lucía;57;Boca;Soltero;Universitario
+Pedro;46;San Lorenzo;Casado;Universitario
+Lucía;61;River;Viudo;Terciario
+Juan;43;San Lorenzo;Soltero;Terciario
+Lucas;65;Huracán;Soltero;Secundario
+Lucía;51;River;Soltero;Universitario
+Lucas;75;Boca;Viudo;Primario
+Nicolás;44;River;Casado;Secundario
+Juan;32;Boca;Casado;Universitario
+José;47;Gimnasia LP;Soltero;Secundario
+Lucas;21;Newells;Casado;Secundario
+Martín;67;Newells;Soltero;Secundario
+Martín;75;Boca;Casado;Universitario
+Martín;41;River;Soltero;Primario
+Lucas;43;Boca;Divorciado;Terciario
+Martín;43;Boca;Soltero;Secundario
+Lucas;42;Independiente;Casado;Terciario
+Matías;46;Argentinos Juniors;Casado;Terciario
+Federico;34;River;Casado;Universitario
+Ana;55;River;Soltero;Secundario
+Lucas;14;San Lorenzo;Soltero;Primario
+Camila;54;Argentinos Juniors;Soltero;Primario
+Santiago;22;Racing;Divorciado;Secundario
+Nicolás;45;San Lorenzo;Casado;Secundario
+María;55;River;Soltero;Terciario
+Lucía;62;Huracán;Divorciado;Universitario
+María;43;Estudiantes;Casado;Terciario
+Daniel;30;Racing;Viudo;Primario
+Juan;28;San Lorenzo;Soltero;Secundario
+Lucas;77;Newells;Casado;Universitario
+Martín;52;River;Casado;Universitario
+Santiago;42;Boca;Casado;Primario
+Lucía;38;Independiente;Divorciado;Secundario
+Nicolás;39;Vélez;Casado;Secundario
+Pedro;64;Gimnasia LP;Soltero;Primario
+Lucas;28;River;Soltero;Universitario
+Lucas;51;Boca;Divorciado;Terciario
+Nicolás;67;Argentinos Juniors;Viudo;Universitario
+Juan;38;Racing;Soltero;Universitario
+Juan;48;Boca;Soltero;Universitario
+Martín;43;Vélez;Viudo;Primario
+María;76;River;Soltero;Terciario
+Pedro;45;Rosario Central;Soltero;Secundario
+Nicolás;25;San Lorenzo;Viudo;Secundario
+Lucía;45;River;Casado;Universitario
+Martín;35;Estudiantes;Soltero;Universitario
+Santiago;53;Boca;Casado;Secundario
+Daniel;47;Newells;Viudo;Primario
+Martín;22;Boca;Viudo;Secundario
+Juan;39;River;Soltero;Universitario
+Juan;59;Racing;Viudo;Universitario
+Martín;73;River;Soltero;Primario
+Ana;39;Boca;Casado;Secundario
+Martín;47;Independiente;Casado;Universitario
+Camila;49;River;Soltero;Terciario
+Juan;33;Newells;Soltero;Universitario
+Matías;48;Boca;Casado;Primario
+Lucas;68;Boca;Casado;Secundario
+Juan;34;River;Soltero;Secundario
+Sofía;38;Racing;Viudo;Secundario
+Lucía;62;Estudiantes;Divorciado;Terciario
+Martín;41;Racing;Casado;Secundario
+Nicolás;34;River;Casado;Universitario
+Valentina;68;Independiente;Casado;Universitario
+Lucas;61;Racing;Divorciado;Terciario
+Nicolás;37;Estudiantes;Soltero;Terciario
+Juan;29;Newells;Casado;Universitario
+María;51;River;Soltero;Universitario
+Santiago;54;Independiente;Divorciado;Terciario
+Santiago;39;San Lorenzo;Soltero;Secundario
+Nicolás;58;Boca;Divorciado;Primario
+Juan;20;Racing;Soltero;Secundario
+Federico;26;Boca;Casado;Secundario
+Juan;25;Estudiantes;Divorciado;Secundario
+Lucas;64;River;Divorciado;Primario
+Pedro;31;Boca;Soltero;Secundario
+Martín;41;Boca;Casado;Primario
+Santiago;40;River;Casado;Universitario
+Federico;26;Independiente;Casado;Primario
+Pedro;45;Racing;Viudo;Secundario
+Pedro;65;River;Casado;Terciario
+Ana;74;Vélez;Soltero;Terciario
+Ana;47;Rosario Central;Casado;Primario
+Ana;46;Boca;Casado;Universitario
+Lucía;73;Estudiantes;Soltero;Universitario
+María;32;Racing;Divorciado;Primario
+Valentina;29;San Lorenzo;Divorciado;Secundario
+Pedro;41;Boca;Divorciado;Primario
+Martín;38;River;Soltero;Secundario
+Juan;27;Boca;Divorciado;Universitario
+Juan;39;Boca;Divorciado;Universitario
+Nicolás;26;Huracán;Divorciado;Primario
+Lucía;60;Independiente;Casado;Universitario
+Nicolás;41;River;Casado;Secundario
+Nicolás;70;Boca;Divorciado;Primario
+Juan;39;Gimnasia LP;Viudo;Secundario
+Lucas;51;San Lorenzo;Casado;Secundario
+Federico;45;Independiente;Soltero;Secundario
+Juan;39;Newells;Soltero;Secundario
+Camila;41;River;Divorciado;Secundario
+Matías;36;River;Soltero;Secundario
+Federico;27;Boca;Casado;Secundario
+Juan;47;Gimnasia LP;Casado;Terciario
+Santiago;58;Boca;Soltero;Primario
+Ana;64;River;Viudo;Secundario
+Juan;32;Racing;Casado;Secundario
+Juan;20;Racing;Soltero;Secundario
+Daniel;49;San Lorenzo;Soltero;Primario
+Lucas;55;Newells;Divorciado;Universitario
+José;37;River;Casado;Secundario
+Sofía;43;Racing;Viudo;Secundario
+Santiago;80;Newells;Divorciado;Universitario
+Martín;48;River;Soltero;Universitario
+Martín;54;San Lorenzo;Casado;Universitario
+Lucas;21;Boca;Soltero;Secundario
+Camila;49;Independiente;Soltero;Universitario
+Nicolás;25;River;Casado;Primario
+Federico;34;Rosario Central;Casado;Secundario
+María;48;Vélez;Casado;Secundario
+Lucas;56;Independiente;Viudo;Secundario
+Matías;42;San Lorenzo;Casado;Primario
+Santiago;27;Racing;Divorciado;Secundario
+Federico;41;Independiente;Casado;Secundario
+Nicolás;40;River;Soltero;Secundario
+Juan;37;Estudiantes;Divorciado;Secundario
+María;71;Argentinos Juniors;Casado;Universitario
+José;31;San Lorenzo;Soltero;Universitario
+Daniel;37;Huracán;Casado;Secundario
+María;25;Rosario Central;Soltero;Primario
+María;73;River;Casado;Universitario
+Pedro;65;Racing;Viudo;Secundario
+Lucas;37;Racing;Soltero;Terciario
+Daniel;58;Rosario Central;Soltero;Universitario
+Lucas;57;River;Casado;Primario
+Martín;18;Racing;Soltero;Secundario
+Lucía;18;Racing;Soltero;Secundario
+Martín;51;San Lorenzo;Casado;Secundario
+Nicolás;40;River;Soltero;Terciario
+Federico;25;Newells;Soltero;Secundario
+Federico;34;Boca;Casado;Secundario
+Lucía;35;Boca;Viudo;Universitario
+Santiago;52;San Lorenzo;Divorciado;Universitario
+María;82;Newells;Soltero;Primario
+Camila;64;Gimnasia LP;Soltero;Primario
+Santiago;26;Independiente;Divorciado;Universitario
+Matías;54;Racing;Soltero;Secundario
+Lucía;58;Independiente;Soltero;Secundario
+Lucía;27;San Lorenzo;Soltero;Terciario
+Juan;61;Racing;Soltero;Primario
+Camila;51;Independiente;Casado;Secundario
+Martín;24;Vélez;Casado;Universitario
+Sofía;40;Boca;Casado;Secundario
+Lucía;47;River;Casado;Secundario
+Santiago;65;Vélez;Casado;Universitario
+Nicolás;41;Boca;Soltero;Terciario
+Juan;34;Newells;Casado;Universitario
+Santiago;56;Independiente;Casado;Universitario
+Martín;40;Argentinos Juniors;Casado;Secundario
+Nicolás;44;Independiente;Viudo;Universitario
+Lucía;25;Boca;Soltero;Universitario
+Juan;48;River;Divorciado;Secundario
+José;64;Boca;Casado;Secundario
+Martín;43;San Lorenzo;Viudo;Terciario
+Valentina;44;San Lorenzo;Viudo;Secundario
+Santiago;35;Estudiantes;Viudo;Primario
+Juan;31;Boca;Divorciado;Universitario
+Lucas;50;Racing;Viudo;Terciario
+Nicolás;35;River;Casado;Secundario
+Santiago;52;River;Soltero;Terciario
+Santiago;56;Boca;Viudo;Universitario
+Ana;44;Boca;Viudo;Terciario
+Santiago;46;Boca;Soltero;Secundario
+Nicolás;66;Huracán;Divorciado;Primario
+Lucas;53;Boca;Soltero;Secundario
+Pedro;38;Independiente;Soltero;Universitario
+Juan;46;San Lorenzo;Soltero;Terciario
+Nicolás;19;Independiente;Soltero;Secundario
+Lucas;79;River;Casado;Secundario
+Camila;54;Boca;Soltero;Secundario
+Nicolás;45;Independiente;Soltero;Universitario
+Juan;38;Racing;Soltero;Primario
+Lucas;43;Boca;Divorciado;Secundario
+Martín;36;Boca;Soltero;Terciario
+Martín;41;Independiente;Casado;Terciario
+Lucas;42;River;Soltero;Secundario
+Juan;28;San Lorenzo;Casado;Terciario
+Lucía;29;Newells;Soltero;Terciario
+Ana;40;Gimnasia LP;Casado;Terciario
+Santiago;29;River;Soltero;Primario
+Lucas;64;Boca;Soltero;Terciario
+Juan;29;River;Casado;Universitario
+Martín;66;Racing;Casado;Secundario
+Martín;48;River;Viudo;Terciario
+María;63;Independiente;Casado;Universitario
+Ana;28;Independiente;Soltero;Universitario
+Lucas;72;Boca;Casado;Primario
+Matías;32;River;Casado;Universitario
+Juan;51;Boca;Soltero;Secundario
+Juan;28;Huracán;Divorciado;Universitario
+Lucía;67;River;Divorciado;Universitario
+Lucía;48;Independiente;Casado;Primario
+Lucía;19;River;Soltero;Secundario
+María;17;Racing;Soltero;Primario
+María;30;River;Soltero;Terciario
+Daniel;27;Independiente;Divorciado;Primario
+Federico;45;River;Soltero;Terciario
+Santiago;22;River;Divorciado;Secundario
+Sofía;33;River;Viudo;Universitario
+Santiago;63;River;Casado;Secundario
+Martín;22;Independiente;Soltero;Secundario
+Sofía;30;River;Divorciado;Primario
+Martín;34;Vélez;Divorciado;Universitario
+María;19;River;Soltero;Secundario
+Ana;43;San Lorenzo;Soltero;Universitario
+Nicolás;62;Racing;Soltero;Universitario
+Daniel;54;Racing;Viudo;Universitario
+Juan;54;Independiente;Soltero;Secundario
+Martín;15;Racing;Soltero;Primario
+Sofía;55;Newells;Soltero;Universitario
+Camila;32;Huracán;Soltero;Universitario
+Nicolás;52;San Lorenzo;Divorciado;Secundario
+Lucía;32;Independiente;Divorciado;Terciario
+Matías;35;Boca;Casado;Primario
+Camila;47;Estudiantes;Viudo;Secundario
+Ana;50;Boca;Casado;Primario
+Santiago;38;Racing;Viudo;Secundario
+Lucía;35;Racing;Casado;Universitario
+Juan;59;San Lorenzo;Divorciado;Universitario
+Daniel;24;Racing;Soltero;Terciario
+Ana;29;Independiente;Soltero;Primario
+Pedro;15;Boca;Soltero;Primario
+Martín;41;San Lorenzo;Viudo;Universitario
+Federico;67;Independiente;Divorciado;Universitario
+Juan;60;River;Divorciado;Secundario
+Martín;39;River;Viudo;Primario
+Juan;54;Boca;Soltero;Universitario
+Sofía;53;Boca;Soltero;Universitario
+Nicolás;23;River;Soltero;Primario
+Ana;66;River;Casado;Universitario
+Juan;61;Vélez;Divorciado;Universitario
+Sofía;38;River;Casado;Universitario
+Martín;69;Boca;Casado;Universitario
+Lucas;25;Independiente;Viudo;Universitario
+Daniel;40;Independiente;Casado;Terciario
+Lucas;47;Argentinos Juniors;Casado;Secundario
+Nicolás;27;River;Soltero;Universitario
+Federico;31;Boca;Divorciado;Primario
+Juan;43;River;Soltero;Universitario
+Santiago;80;River;Divorciado;Universitario
+Santiago;37;Boca;Divorciado;Universitario
+Nicolás;54;Boca;Soltero;Terciario
+Lucas;78;River;Divorciado;Secundario
+Juan;14;Gimnasia LP;Soltero;Primario
+Juan;72;Rosario Central;Viudo;Terciario
+Nicolás;46;San Lorenzo;Divorciado;Terciario
+Lucas;42;San Lorenzo;Casado;Secundario
+Nicolás;29;Boca;Soltero;Terciario
+Daniel;65;Independiente;Soltero;Primario
+Santiago;68;Boca;Soltero;Primario
+Santiago;58;River;Viudo;Secundario
+Nicolás;40;San Lorenzo;Casado;Universitario
+Martín;31;River;Soltero;Secundario
+Juan;48;Independiente;Casado;Terciario
+María;64;San Lorenzo;Casado;Secundario
+Lucas;39;River;Casado;Universitario
+Lucía;51;Boca;Divorciado;Secundario
+Daniel;26;Racing;Casado;Universitario
+Nicolás;27;Racing;Soltero;Secundario
+Martín;37;Boca;Casado;Primario
+Santiago;79;Boca;Soltero;Terciario
+Santiago;32;Boca;Viudo;Universitario
+Sofía;48;Boca;Casado;Primario
+Juan;61;Huracán;Casado;Secundario
+José;41;River;Soltero;Universitario
+Nicolás;41;River;Soltero;Universitario
+Lucía;54;Newells;Viudo;Universitario
+Matías;37;Newells;Soltero;Universitario
+Ana;62;Argentinos Juniors;Viudo;Secundario
+Martín;37;Estudiantes;Soltero;Primario
+Daniel;33;Boca;Soltero;Secundario
+Juan;47;Rosario Central;Casado;Terciario
+José;25;Independiente;Divorciado;Primario
+Camila;60;Racing;Casado;Universitario
+Juan;66;Boca;Soltero;Primario
+Juan;39;San Lorenzo;Viudo;Primario
+Nicolás;47;San Lorenzo;Viudo;Universitario
+Lucas;49;Independiente;Divorciado;Universitario
+Martín;31;Boca;Divorciado;Universitario
+Juan;42;Boca;Soltero;Universitario
+Nicolás;41;San Lorenzo;Casado;Terciario
+Valentina;50;Racing;Divorciado;Secundario
+Nicolás;68;River;Divorciado;Universitario
+Valentina;38;Gimnasia LP;Viudo;Universitario
+Matías;44;Racing;Divorciado;Universitario
+Juan;58;Boca;Soltero;Universitario
+Federico;54;Independiente;Divorciado;Secundario
+Lucas;58;Independiente;Viudo;Universitario
+Santiago;62;River;Casado;Universitario
+Nicolás;33;Racing;Viudo;Universitario
+Juan;32;Racing;Soltero;Terciario
+Lucas;64;River;Casado;Universitario
+Martín;53;Boca;Casado;Terciario
+Martín;33;Gimnasia LP;Soltero;Primario
+Pedro;43;Vélez;Casado;Secundario
+Ana;37;River;Casado;Secundario
+Daniel;16;Boca;Soltero;Primario
+Martín;52;Vélez;Divorciado;Universitario
+Martín;54;Estudiantes;Casado;Universitario
+Lucas;59;Newells;Viudo;Terciario
+Sofía;57;Huracán;Divorciado;Terciario
+Martín;46;River;Viudo;Secundario
+Juan;52;Boca;Casado;Universitario
+Daniel;28;Boca;Casado;Primario
+Daniel;28;Newells;Viudo;Primario
+Juan;48;River;Divorciado;Universitario
+Juan;36;Vélez;Casado;Secundario
+Daniel;72;River;Soltero;Universitario
+Federico;69;Rosario Central;Soltero;Primario
+Ana;41;River;Soltero;Primario
+Santiago;23;Racing;Soltero;Universitario
+Juan;40;Independiente;Soltero;Secundario
+María;79;River;Viudo;Terciario
+Juan;24;Racing;Casado;Universitario
+Lucía;35;Boca;Divorciado;Secundario
+Lucas;37;Newells;Casado;Universitario
+Ana;42;Rosario Central;Casado;Secundario
+Juan;60;Newells;Soltero;Secundario
+Nicolás;23;River;Soltero;Secundario
+Ana;65;Huracán;Casado;Secundario
+Juan;46;Racing;Divorciado;Secundario
+Nicolás;50;Boca;Casado;Terciario
+Lucía;54;River;Casado;Terciario
+Lucía;37;Boca;Divorciado;Primario
+Valentina;69;River;Casado;Secundario
+Lucas;38;River;Viudo;Primario
+Martín;40;River;Divorciado;Primario
+José;27;Boca;Soltero;Secundario
+Valentina;60;Newells;Casado;Primario
+Juan;47;Independiente;Soltero;Universitario
+Federico;79;Independiente;Soltero;Secundario
+Juan;29;Boca;Casado;Secundario
+Santiago;63;River;Divorciado;Universitario
+Pedro;44;Independiente;Soltero;Secundario
+Ana;37;Boca;Soltero;Primario
+Federico;34;San Lorenzo;Soltero;Secundario
+Pedro;32;Boca;Casado;Primario
+Ana;39;Boca;Viudo;Secundario
+Pedro;39;Huracán;Viudo;Primario
+Federico;34;Newells;Soltero;Universitario
+Pedro;53;Boca;Viudo;Secundario
+Matías;38;River;Soltero;Secundario
+Pedro;61;River;Viudo;Secundario
+Daniel;31;Independiente;Soltero;Terciario
+Pedro;46;Racing;Viudo;Universitario
+Lucas;38;Independiente;Soltero;Primario
+Lucas;54;River;Casado;Terciario
+Lucas;35;Boca;Divorciado;Universitario
+Matías;42;River;Soltero;Terciario
+Juan;26;Boca;Viudo;Universitario
+José;70;Boca;Casado;Universitario
+Santiago;50;Racing;Casado;Universitario
+Martín;53;River;Viudo;Primario
+Santiago;66;Racing;Divorciado;Terciario
+Martín;25;Boca;Divorciado;Secundario
+María;27;Argentinos Juniors;Divorciado;Primario
+Sofía;70;Newells;Soltero;Universitario
+Lucas;33;Rosario Central;Soltero;Universitario
+Pedro;66;Vélez;Viudo;Universitario
+Juan;19;Racing;Soltero;Secundario
+Juan;35;River;Soltero;Terciario
+Juan;26;Boca;Soltero;Primario
+Daniel;59;River;Soltero;Secundario
+Santiago;27;Vélez;Casado;Universitario
+Lucía;44;Boca;Casado;Secundario
+Daniel;20;Gimnasia LP;Soltero;Secundario
+Ana;35;San Lorenzo;Soltero;Secundario
+Juan;34;River;Viudo;Universitario
+Lucas;65;River;Casado;Universitario
+Ana;35;Racing;Divorciado;Universitario
+Nicolás;63;Independiente;Soltero;Terciario
+Lucía;31;San Lorenzo;Casado;Secundario
+Nicolás;33;River;Viudo;Universitario
+Lucía;17;San Lorenzo;Soltero;Primario
+Matías;63;River;Casado;Terciario
+Martín;53;Huracán;Divorciado;Primario
+Juan;19;Independiente;Soltero;Secundario
+Ana;33;San Lorenzo;Casado;Secundario
+José;36;Boca;Viudo;Secundario
+Martín;55;Boca;Viudo;Terciario
+Martín;48;Vélez;Soltero;Terciario
+Lucía;43;Newells;Casado;Primario
+Juan;45;River;Divorciado;Secundario
+Santiago;66;San Lorenzo;Soltero;Secundario
+María;33;River;Casado;Terciario
+Santiago;39;Racing;Casado;Primario
+Martín;49;River;Divorciado;Universitario
+Lucas;42;Boca;Casado;Secundario
+Matías;44;Racing;Viudo;Universitario
+Valentina;53;River;Casado;Primario
+Juan;35;Vélez;Soltero;Terciario
+Santiago;53;Boca;Casado;Secundario
+Sofía;34;Racing;Viudo;Secundario
+Santiago;43;Boca;Soltero;Secundario
+Juan;35;River;Casado;Secundario
+Sofía;59;Newells;Casado;Universitario
+Juan;51;Boca;Soltero;Secundario
+Sofía;24;Newells;Soltero;Secundario
+Lucía;72;River;Divorciado;Terciario
+Lucas;53;River;Soltero;Universitario
+Sofía;67;Racing;Divorciado;Secundario
+Martín;58;River;Casado;Terciario
+Santiago;19;River;Soltero;Secundario
+Lucas;38;Racing;Soltero;Secundario
+Valentina;60;Racing;Casado;Universitario
+Martín;39;Independiente;Soltero;Terciario
+Lucas;23;Independiente;Casado;Universitario
+Ana;68;Racing;Soltero;Secundario
+Lucas;29;Boca;Casado;Secundario
+Lucía;52;Boca;Casado;Secundario
+Santiago;26;Boca;Casado;Secundario
+Ana;33;Boca;Viudo;Universitario
+Sofía;42;Racing;Soltero;Secundario
+José;75;Vélez;Soltero;Universitario
+Nicolás;16;Estudiantes;Soltero;Primario
+José;45;Independiente;Casado;Secundario
+Lucía;49;Boca;Casado;Terciario
+Juan;20;Racing;Soltero;Secundario
+Martín;38;Boca;Divorciado;Terciario
+Lucía;52;River;Casado;Secundario
+Santiago;34;Newells;Casado;Universitario
+Federico;46;River;Viudo;Universitario
+Ana;26;San Lorenzo;Soltero;Universitario
+Daniel;38;Boca;Viudo;Secundario
+Martín;74;Vélez;Viudo;Secundario
+Martín;23;Estudiantes;Soltero;Terciario
+Matías;56;Racing;Casado;Terciario
+Lucas;34;Independiente;Divorciado;Universitario
+María;69;Independiente;Soltero;Universitario
+Camila;64;Boca;Soltero;Secundario
+Lucas;47;Boca;Divorciado;Primario
+Nicolás;18;Racing;Soltero;Secundario
+Juan;27;San Lorenzo;Divorciado;Universitario
+Juan;56;San Lorenzo;Soltero;Terciario
+Nicolás;34;Boca;Casado;Secundario
+Santiago;40;River;Soltero;Primario
+Ana;48;Independiente;Casado;Universitario
+Sofía;36;River;Divorciado;Primario
+Juan;47;Independiente;Casado;Universitario
+Nicolás;34;River;Soltero;Secundario
+Santiago;35;San Lorenzo;Soltero;Universitario
+Valentina;49;Rosario Central;Viudo;Terciario
+Lucas;64;River;Casado;Primario
+Nicolás;46;Boca;Divorciado;Universitario
+Santiago;23;San Lorenzo;Casado;Secundario
+Martín;59;River;Soltero;Secundario
+Lucía;49;Newells;Soltero;Universitario
+Federico;56;River;Viudo;Primario
+María;43;San Lorenzo;Soltero;Terciario
+Santiago;40;River;Soltero;Universitario
+Martín;62;Estudiantes;Casado;Secundario
+Nicolás;35;River;Casado;Terciario
+Lucas;36;Racing;Soltero;Secundario
+Juan;38;River;Casado;Secundario
+Matías;26;Newells;Viudo;Universitario
+Nicolás;30;River;Soltero;Universitario
+Nicolás;39;Boca;Soltero;Secundario
+Lucas;28;Racing;Soltero;Terciario
+Lucía;49;Rosario Central;Divorciado;Primario
+Lucas;43;Estudiantes;Viudo;Universitario
+Matías;44;Estudiantes;Soltero;Primario
+Nicolás;35;River;Divorciado;Secundario
+Lucas;74;River;Viudo;Terciario
+Matías;40;Independiente;Viudo;Terciario
+Ana;25;Newells;Viudo;Primario
+Juan;19;Boca;Soltero;Secundario
+Camila;63;Newells;Soltero;Secundario
+Daniel;73;Boca;Divorciado;Primario
+Pedro;34;Independiente;Divorciado;Terciario
+Lucía;54;Boca;Soltero;Terciario
+Martín;41;Boca;Soltero;Primario
+Juan;28;Racing;Viudo;Secundario
+Federico;18;San Lorenzo;Soltero;Secundario
+Martín;43;River;Soltero;Universitario
+Ana;26;River;Soltero;Secundario
+Sofía;71;Boca;Casado;Primario
+Matías;31;Rosario Central;Divorciado;Universitario
+Nicolás;60;River;Soltero;Terciario
+Lucía;40;Boca;Soltero;Primario
+María;27;Boca;Soltero;Universitario
+Daniel;57;River;Viudo;Universitario
+Lucía;65;Boca;Casado;Primario
+Martín;43;San Lorenzo;Viudo;Universitario
+Matías;62;River;Casado;Secundario
+Valentina;47;Vélez;Soltero;Terciario
+Nicolás;32;Racing;Soltero;Primario
+Ana;24;River;Casado;Secundario
+Martín;49;River;Divorciado;Universitario
+Martín;27;Huracán;Divorciado;Secundario
+Lucía;46;Boca;Viudo;Primario
+Matías;32;Racing;Soltero;Universitario
+Pedro;34;San Lorenzo;Casado;Universitario
+Santiago;40;River;Soltero;Secundario
+Martín;48;Racing;Soltero;Universitario
+Matías;38;River;Divorciado;Terciario
+Sofía;44;Huracán;Soltero;Universitario
+Juan;23;Independiente;Soltero;Secundario
+Martín;45;Independiente;Soltero;Primario
+Ana;32;Boca;Casado;Universitario
+Nicolás;37;Vélez;Soltero;Universitario
+Martín;37;Gimnasia LP;Viudo;Secundario
+Pedro;25;Boca;Casado;Universitario
+Nicolás;35;Argentinos Juniors;Viudo;Secundario
+Martín;49;San Lorenzo;Casado;Universitario
+Sofía;71;River;Divorciado;Secundario
+Federico;55;Boca;Viudo;Terciario
+Juan;58;Boca;Viudo;Secundario
+María;25;Racing;Soltero;Secundario
+María;32;San Lorenzo;Viudo;Secundario
+Camila;75;River;Soltero;Universitario
+Juan;71;Racing;Viudo;Primario
+Pedro;23;River;Viudo;Secundario
+Pedro;72;Racing;Viudo;Secundario
+José;35;Independiente;Divorciado;Universitario
+Juan;15;Gimnasia LP;Soltero;Primario
+Juan;74;Racing;Soltero;Universitario
+Ana;49;Rosario Central;Casado;Primario
+Lucía;47;Racing;Viudo;Primario
+Nicolás;51;Huracán;Casado;Primario
+Matías;30;Independiente;Soltero;Universitario
+Nicolás;32;River;Soltero;Secundario
+Lucía;49;River;Soltero;Terciario
+María;40;Boca;Soltero;Terciario
+José;70;Newells;Soltero;Terciario
+Juan;20;San Lorenzo;Soltero;Secundario
+Ana;53;Boca;Soltero;Universitario
+Martín;39;Boca;Viudo;Universitario
+Santiago;18;Racing;Soltero;Secundario
+Pedro;49;Boca;Viudo;Secundario
+Juan;40;Rosario Central;Divorciado;Secundario
+María;30;Boca;Viudo;Universitario
+Santiago;30;Racing;Viudo;Secundario
+Camila;57;Boca;Viudo;Universitario
+Federico;62;Vélez;Casado;Universitario
+Lucía;50;River;Divorciado;Secundario
+Juan;52;Argentinos Juniors;Divorciado;Universitario
+Lucas;40;Estudiantes;Divorciado;Secundario
+Pedro;59;Huracán;Viudo;Universitario
+Valentina;34;San Lorenzo;Soltero;Terciario
+Nicolás;73;Newells;Casado;Secundario
+Matías;49;River;Soltero;Universitario
+Daniel;43;Boca;Soltero;Primario
+Lucas;20;Boca;Soltero;Secundario
+Santiago;52;Huracán;Casado;Primario
+Juan;77;Independiente;Casado;Secundario
+Ana;52;Boca;Viudo;Primario
+Lucas;44;Boca;Soltero;Secundario
+Camila;32;Boca;Casado;Secundario
+Ana;60;Independiente;Casado;Terciario
+Pedro;40;Rosario Central;Divorciado;Universitario
+Lucas;16;Racing;Soltero;Primario
+Nicolás;28;Racing;Viudo;Universitario
+Daniel;39;Racing;Casado;Universitario
+Federico;68;River;Viudo;Universitario
+Juan;50;River;Casado;Terciario
+Juan;49;Boca;Soltero;Terciario
+Juan;46;Argentinos Juniors;Casado;Terciario
+Juan;42;Racing;Viudo;Secundario
+María;31;Independiente;Casado;Secundario
+Ana;54;Boca;Soltero;Secundario
+Ana;63;River;Casado;Secundario
+Matías;55;San Lorenzo;Soltero;Terciario
+Santiago;21;River;Soltero;Secundario
+Lucía;64;San Lorenzo;Soltero;Terciario
+Martín;37;Racing;Divorciado;Primario
+Pedro;57;Independiente;Viudo;Secundario
+María;53;Racing;Casado;Primario
+Martín;51;Independiente;Soltero;Secundario
+Martín;24;San Lorenzo;Divorciado;Universitario
+Juan;35;River;Soltero;Secundario
+Matías;22;River;Soltero;Secundario
+Nicolás;61;River;Casado;Secundario
+Lucas;55;Independiente;Divorciado;Secundario
+Nicolás;39;Independiente;Divorciado;Universitario
+Ana;44;Vélez;Soltero;Universitario
+Juan;26;Gimnasia LP;Viudo;Secundario
+Martín;45;Boca;Casado;Terciario
+Ana;29;San Lorenzo;Casado;Primario
+Lucía;75;River;Soltero;Terciario
+Martín;58;Huracán;Casado;Universitario
+Juan;23;Newells;Divorciado;Secundario
+Pedro;59;Newells;Soltero;Terciario
+Lucía;57;River;Divorciado;Secundario
+Martín;39;San Lorenzo;Soltero;Primario
+Juan;46;Racing;Casado;Universitario
+Nicolás;31;Racing;Casado;Primario
+Federico;47;Boca;Casado;Secundario
+Nicolás;41;Boca;Divorciado;Terciario
+Camila;49;Huracán;Soltero;Primario
+Nicolás;25;Boca;Soltero;Secundario
+Lucas;68;Independiente;Soltero;Terciario
+María;32;Argentinos Juniors;Casado;Primario
+Santiago;67;Boca;Viudo;Terciario
+Martín;24;Independiente;Divorciado;Secundario
+Ana;33;Racing;Viudo;Secundario
+Martín;21;Boca;Casado;Secundario
+Lucas;56;San Lorenzo;Soltero;Secundario
+Juan;62;River;Soltero;Primario
+Santiago;35;River;Soltero;Primario
+Lucía;33;Racing;Soltero;Universitario
+Santiago;43;Independiente;Viudo;Universitario
+Juan;21;River;Soltero;Secundario
+Lucía;70;Boca;Soltero;Secundario
+Martín;74;Boca;Divorciado;Primario
+Martín;51;Boca;Viudo;Primario
+Lucas;48;Gimnasia LP;Casado;Terciario
+Lucía;70;Racing;Soltero;Universitario
+Juan;39;River;Divorciado;Universitario
+Sofía;55;Newells;Divorciado;Terciario
+Juan;71;Independiente;Divorciado;Primario
+Ana;24;River;Casado;Secundario
+Martín;35;Racing;Soltero;Terciario
+Nicolás;27;Boca;Soltero;Universitario
+Juan;28;River;Viudo;Secundario
+Pedro;39;Estudiantes;Viudo;Universitario
+Federico;60;San Lorenzo;Casado;Secundario
+Nicolás;46;Gimnasia LP;Soltero;Secundario
+María;31;Argentinos Juniors;Viudo;Secundario
+Federico;45;River;Casado;Primario
+Ana;41;River;Divorciado;Universitario
+Federico;25;Racing;Soltero;Universitario
+Daniel;45;River;Soltero;Universitario
+Lucía;46;Independiente;Divorciado;Secundario
+Sofía;39;River;Soltero;Universitario
+Ana;35;Boca;Divorciado;Secundario
+Lucas;63;San Lorenzo;Divorciado;Secundario
+Juan;38;River;Viudo;Terciario
+Juan;44;San Lorenzo;Soltero;Secundario
+María;67;River;Soltero;Secundario
+Juan;40;Boca;Divorciado;Universitario
+Sofía;53;Boca;Divorciado;Primario
+Juan;39;Racing;Casado;Secundario
+María;37;Huracán;Casado;Secundario
+Ana;69;River;Soltero;Secundario
+Matías;42;Racing;Casado;Universitario
+Juan;78;Vélez;Viudo;Universitario
+María;54;Racing;Casado;Primario
+María;64;San Lorenzo;Viudo;Universitario
+Nicolás;55;Racing;Viudo;Primario
+Santiago;55;Independiente;Casado;Universitario
+Camila;45;Boca;Casado;Primario
+Lucas;45;Vélez;Soltero;Universitario
+Ana;52;Newells;Viudo;Primario
+Lucía;23;River;Casado;Terciario
+José;59;River;Soltero;Secundario
+Ana;77;Independiente;Divorciado;Terciario
+Lucas;25;San Lorenzo;Soltero;Terciario
+Pedro;44;Racing;Soltero;Secundario
+Nicolás;73;Huracán;Soltero;Primario
+Federico;25;Boca;Casado;Secundario
+Lucía;30;Vélez;Viudo;Universitario
+Nicolás;72;Independiente;Casado;Universitario
+Lucas;36;Estudiantes;Soltero;Universitario
+Martín;38;Racing;Casado;Secundario
+Daniel;45;Racing;Soltero;Terciario
+Lucas;56;Boca;Soltero;Universitario
+Ana;53;Boca;Soltero;Secundario
+Lucía;52;Boca;Soltero;Universitario
+Federico;37;River;Divorciado;Terciario
+Lucía;63;Newells;Casado;Universitario
+Sofía;46;San Lorenzo;Divorciado;Universitario
+Juan;55;Boca;Soltero;Terciario
+Sofía;46;River;Divorciado;Universitario
+Juan;42;Newells;Casado;Terciario
+Lucas;61;River;Casado;Terciario
+Santiago;75;Vélez;Casado;Terciario
+Ana;39;Boca;Viudo;Primario
+Valentina;28;River;Soltero;Secundario
+Pedro;60;River;Casado;Primario
+Lucas;34;River;Viudo;Terciario
+Martín;46;Racing;Casado;Secundario
+Juan;38;Newells;Soltero;Terciario
+Lucas;66;River;Soltero;Secundario
+Lucas;76;River;Viudo;Secundario
+Juan;59;Independiente;Viudo;Universitario
+Ana;54;Racing;Soltero;Universitario
+Daniel;23;Estudiantes;Casado;Secundario
+Federico;38;River;Divorciado;Terciario
+Juan;38;Boca;Soltero;Universitario
+Daniel;36;San Lorenzo;Casado;Primario
+Juan;44;Vélez;Viudo;Primario
+Lucía;34;River;Viudo;Primario
+Matías;64;Boca;Divorciado;Universitario
+Juan;23;Boca;Soltero;Secundario
+Santiago;54;River;Divorciado;Secundario
+Daniel;78;Boca;Casado;Secundario
+Sofía;41;River;Divorciado;Primario
+Juan;35;Boca;Soltero;Terciario
+Matías;61;River;Divorciado;Universitario
+Martín;54;Rosario Central;Soltero;Secundario
+María;61;Boca;Casado;Universitario
+Nicolás;60;Racing;Casado;Terciario
+Sofía;49;Boca;Casado;Universitario
+María;51;Huracán;Divorciado;Terciario
+Federico;48;Vélez;Soltero;Secundario
+Juan;42;Racing;Divorciado;Universitario
+Martín;59;Boca;Soltero;Universitario
+Pedro;46;Newells;Soltero;Primario
+Juan;42;Boca;Viudo;Primario
+Federico;61;Boca;Soltero;Primario
+Santiago;23;Gimnasia LP;Viudo;Universitario
+Juan;62;Boca;Soltero;Universitario
+Pedro;34;Independiente;Soltero;Secundario
+Sofía;43;Boca;Soltero;Universitario
+Lucas;57;Racing;Soltero;Secundario
+Martín;56;Huracán;Viudo;Primario
+Ana;79;Independiente;Soltero;Universitario
+Nicolás;58;River;Casado;Secundario
+Pedro;53;River;Casado;Secundario
+José;32;River;Viudo;Terciario
+Ana;41;River;Viudo;Universitario
+Camila;43;River;Casado;Universitario
+Pedro;48;Racing;Viudo;Universitario
+Lucía;44;River;Soltero;Terciario
+Lucía;24;Racing;Soltero;Primario
+Daniel;25;Boca;Casado;Primario
+Ana;24;Boca;Soltero;Universitario
+Pedro;23;Rosario Central;Viudo;Primario
+Lucía;21;San Lorenzo;Soltero;Secundario
+Daniel;29;Boca;Casado;Universitario
+Lucas;73;Estudiantes;Soltero;Primario
+Nicolás;57;River;Soltero;Secundario
+Lucía;19;Newells;Soltero;Secundario
+Juan;40;Independiente;Divorciado;Secundario
+Santiago;44;Racing;Casado;Secundario
+Nicolás;43;Huracán;Soltero;Universitario
+Sofía;26;River;Viudo;Primario
+Matías;78;Boca;Soltero;Universitario
+Martín;31;River;Casado;Universitario
+Lucía;49;Racing;Soltero;Universitario
+Lucas;24;Racing;Divorciado;Universitario
+Matías;15;Boca;Soltero;Primario
+Martín;71;Boca;Viudo;Primario
+Nicolás;63;River;Casado;Primario
+Nicolás;33;San Lorenzo;Viudo;Primario
+Nicolás;21;Independiente;Divorciado;Secundario
+Santiago;37;San Lorenzo;Soltero;Universitario
+Daniel;57;Boca;Casado;Terciario
+Lucía;45;Racing;Divorciado;Terciario
+María;24;Racing;Viudo;Universitario
+Martín;39;River;Casado;Universitario
+Juan;41;Independiente;Soltero;Terciario
+Martín;32;Racing;Soltero;Secundario
+María;26;San Lorenzo;Soltero;Universitario
+Martín;25;Boca;Soltero;Primario
+Federico;37;River;Casado;Secundario
+Martín;75;Racing;Viudo;Universitario
+Santiago;48;Boca;Soltero;Secundario
+Nicolás;44;Huracán;Soltero;Universitario
+Santiago;29;San Lorenzo;Casado;Primario
+Martín;36;Boca;Divorciado;Universitario
+Lucas;36;Vélez;Viudo;Secundario
+Lucía;32;River;Soltero;Universitario
+María;68;Newells;Casado;Secundario
+Matías;42;Boca;Soltero;Secundario
+Lucas;57;River;Divorciado;Universitario
+Santiago;28;Boca;Soltero;Primario
+Nicolás;47;San Lorenzo;Casado;Terciario
+Juan;73;Vélez;Viudo;Secundario
+Lucía;45;Boca;Soltero;Primario
+Valentina;58;Boca;Soltero;Secundario
+Martín;57;River;Viudo;Universitario
+Juan;38;Independiente;Viudo;Primario
+Ana;37;Boca;Casado;Primario
+Santiago;51;River;Casado;Secundario
+Nicolás;48;Boca;Divorciado;Secundario
+Martín;15;Estudiantes;Soltero;Primario
+Lucas;41;Gimnasia LP;Soltero;Universitario
+Federico;30;San Lorenzo;Casado;Secundario
+Ana;26;Huracán;Casado;Secundario
+Juan;49;River;Viudo;Primario
+Lucas;52;River;Casado;Primario
+Martín;42;Huracán;Soltero;Secundario
+Santiago;43;Boca;Soltero;Secundario
+Martín;37;Boca;Viudo;Primario
+Sofía;65;River;Soltero;Secundario
+Martín;49;Independiente;Casado;Terciario
+Ana;25;Racing;Soltero;Primario
+Valentina;39;River;Viudo;Secundario
+Sofía;38;Estudiantes;Casado;Secundario
+Lucía;72;Racing;Casado;Universitario
+Nicolás;44;Boca;Viudo;Secundario
+Lucía;43;San Lorenzo;Casado;Universitario
+Lucía;29;Independiente;Viudo;Terciario
+Ana;19;Vélez;Soltero;Secundario
+Martín;61;Racing;Divorciado;Terciario
+Martín;41;Huracán;Casado;Primario
+Martín;30;Huracán;Soltero;Universitario
+Lucía;45;Racing;Divorciado;Primario
+Ana;42;San Lorenzo;Divorciado;Terciario
+Santiago;27;San Lorenzo;Viudo;Universitario
+Nicolás;65;Racing;Soltero;Universitario
+Daniel;30;Racing;Soltero;Universitario
+Juan;17;Boca;Soltero;Primario
+Lucas;46;River;Soltero;Universitario
+Martín;61;San Lorenzo;Casado;Primario
+Juan;48;Racing;Divorciado;Terciario
+María;31;Gimnasia LP;Viudo;Universitario
+Lucas;55;Boca;Viudo;Terciario
+Martín;52;River;Divorciado;Universitario
+Pedro;31;River;Viudo;Terciario
+Juan;44;Independiente;Casado;Secundario
+María;59;River;Soltero;Secundario
+Lucía;32;River;Casado;Terciario
+Pedro;62;Racing;Casado;Primario
+Lucía;30;Vélez;Divorciado;Secundario
+Ana;36;Boca;Viudo;Terciario
+Pedro;40;River;Soltero;Secundario
+Lucía;38;River;Viudo;Secundario
+María;27;San Lorenzo;Casado;Universitario
+Ana;30;Independiente;Divorciado;Secundario
+Nicolás;56;San Lorenzo;Soltero;Secundario
+Daniel;33;Boca;Soltero;Terciario
+Valentina;30;Racing;Soltero;Universitario
+Daniel;45;Boca;Divorciado;Universitario
+Juan;31;Huracán;Divorciado;Universitario
+Martín;21;Boca;Soltero;Secundario
+Valentina;54;River;Divorciado;Secundario
+Juan;30;River;Casado;Universitario
+Lucía;82;Boca;Viudo;Secundario
+Lucía;32;Gimnasia LP;Casado;Terciario
+Martín;45;Boca;Casado;Terciario
+Pedro;33;River;Casado;Secundario
+Ana;29;Racing;Divorciado;Secundario
+Lucas;48;Vélez;Casado;Primario
+Juan;27;Racing;Casado;Secundario
+Ana;66;Boca;Casado;Terciario
+Federico;31;Racing;Casado;Primario
+Pedro;30;Racing;Viudo;Universitario
+María;48;Boca;Divorciado;Primario
+Juan;31;Racing;Soltero;Secundario
+Daniel;44;Racing;Soltero;Terciario
+Santiago;48;Boca;Soltero;Primario
+Juan;35;Boca;Casado;Primario
+Nicolás;33;River;Casado;Secundario
+Lucía;44;River;Soltero;Secundario
+Juan;35;San Lorenzo;Soltero;Secundario
+Lucas;24;Racing;Viudo;Universitario
+Valentina;46;San Lorenzo;Casado;Primario
+Santiago;34;Racing;Soltero;Primario
+Martín;26;River;Casado;Universitario
+Pedro;45;Boca;Divorciado;Secundario
+Martín;58;Huracán;Soltero;Terciario
+Santiago;44;Racing;Casado;Secundario
+Matías;72;Boca;Soltero;Secundario
+Martín;33;River;Casado;Universitario
+Nicolás;48;Boca;Casado;Primario
+Lucas;34;River;Casado;Secundario
+Ana;45;River;Casado;Secundario
+Sofía;27;River;Soltero;Terciario
+Martín;58;River;Casado;Terciario
+María;33;Racing;Casado;Universitario
+María;18;Racing;Soltero;Secundario
+José;46;Independiente;Viudo;Universitario
+María;31;Independiente;Soltero;Primario
+Valentina;33;River;Casado;Secundario
+Sofía;38;Huracán;Viudo;Primario
+Pedro;32;San Lorenzo;Soltero;Terciario
+Matías;65;Newells;Casado;Secundario
+Lucía;69;River;Viudo;Universitario
+Lucía;64;Gimnasia LP;Divorciado;Universitario
+Nicolás;49;River;Soltero;Primario
+Nicolás;58;River;Divorciado;Secundario
+Martín;53;Argentinos Juniors;Soltero;Primario
+Nicolás;32;Racing;Soltero;Universitario
+Lucía;37;River;Viudo;Primario
+Lucía;52;Boca;Casado;Universitario
+Santiago;33;Rosario Central;Divorciado;Secundario
+Santiago;25;River;Viudo;Universitario
+Juan;26;Newells;Viudo;Secundario
+María;39;River;Divorciado;Primario
+Juan;69;Independiente;Soltero;Universitario
+Matías;47;River;Divorciado;Secundario
+Federico;34;Boca;Casado;Terciario
+Lucas;22;Boca;Soltero;Secundario
+Camila;33;Newells;Divorciado;Universitario
+Matías;31;River;Casado;Primario
+María;50;Boca;Soltero;Terciario
+Santiago;46;Racing;Soltero;Primario
+Nicolás;22;Vélez;Soltero;Secundario
+Ana;27;River;Soltero;Secundario
+Santiago;23;Huracán;Casado;Universitario
+Lucía;43;Boca;Casado;Primario
+Daniel;46;River;Soltero;Secundario
+Lucas;41;Gimnasia LP;Soltero;Terciario
+Daniel;57;Estudiantes;Soltero;Universitario
+Lucía;44;San Lorenzo;Soltero;Primario
+Juan;49;Rosario Central;Soltero;Universitario
+Lucía;58;Estudiantes;Soltero;Secundario
+Nicolás;73;River;Soltero;Universitario
+Santiago;34;Boca;Soltero;Secundario
+Juan;73;Independiente;Casado;Universitario
+María;72;Boca;Divorciado;Secundario
+Lucía;56;River;Divorciado;Secundario
+Ana;43;Newells;Soltero;Universitario
+Juan;45;River;Divorciado;Secundario
+Daniel;41;Vélez;Soltero;Secundario
+Martín;46;Racing;Divorciado;Primario
+Juan;49;Boca;Soltero;Secundario
+Martín;22;Boca;Casado;Secundario
+Juan;59;Boca;Casado;Universitario
+Matías;48;Huracán;Divorciado;Secundario
+Juan;49;Independiente;Viudo;Primario
+Lucas;22;River;Soltero;Secundario
+Nicolás;35;Boca;Viudo;Primario
+Santiago;78;San Lorenzo;Soltero;Secundario
+Matías;35;Boca;Soltero;Primario
+Lucía;49;River;Soltero;Secundario
+María;21;Argentinos Juniors;Casado;Secundario
+Valentina;53;River;Viudo;Terciario
+María;37;Racing;Divorciado;Secundario
+Lucía;28;River;Divorciado;Secundario
+Juan;60;Boca;Viudo;Universitario
+Ana;25;Boca;Soltero;Universitario
+Lucas;55;Boca;Casado;Secundario
+Pedro;62;Boca;Soltero;Primario
+María;26;Newells;Casado;Universitario
+Juan;50;Rosario Central;Viudo;Universitario
+Pedro;51;River;Divorciado;Terciario
+Matías;47;Newells;Casado;Secundario
+Ana;76;San Lorenzo;Soltero;Secundario
+Juan;36;River;Casado;Universitario
+Nicolás;31;River;Divorciado;Secundario
+Pedro;22;Gimnasia LP;Soltero;Secundario
+Juan;28;Independiente;Soltero;Secundario
+Nicolás;66;Huracán;Casado;Secundario
+Santiago;31;Independiente;Soltero;Universitario
+Nicolás;40;San Lorenzo;Soltero;Universitario
+Sofía;40;Boca;Divorciado;Terciario
+Santiago;50;Newells;Casado;Terciario
+Juan;21;Boca;Viudo;Secundario
+Nicolás;41;River;Soltero;Secundario
+Santiago;42;Boca;Soltero;Universitario
+Nicolás;25;Boca;Soltero;Universitario
+Nicolás;60;Boca;Soltero;Terciario
+Juan;35;Newells;Casado;Secundario
+Santiago;50;River;Casado;Secundario
+Lucas;37;Boca;Soltero;Universitario
+Sofía;25;River;Divorciado;Primario
+Martín;73;Racing;Divorciado;Universitario
+Sofía;25;Boca;Soltero;Terciario
+Martín;72;San Lorenzo;Soltero;Terciario
+Nicolás;30;Racing;Soltero;Secundario
+Lucía;43;Racing;Soltero;Universitario
+Lucas;54;Boca;Soltero;Secundario
+Daniel;28;San Lorenzo;Casado;Secundario
+Martín;55;Racing;Divorciado;Universitario
+Juan;36;San Lorenzo;Viudo;Terciario
+Juan;26;Independiente;Casado;Secundario
+Santiago;20;Independiente;Soltero;Secundario
+Pedro;71;Independiente;Divorciado;Secundario
+Nicolás;47;Boca;Casado;Secundario
+Juan;70;Independiente;Divorciado;Universitario
+Martín;62;Rosario Central;Soltero;Secundario
+Santiago;44;Racing;Casado;Terciario
+Nicolás;29;Rosario Central;Soltero;Primario
+Pedro;60;Independiente;Soltero;Universitario
+Daniel;30;River;Casado;Terciario
+Lucas;48;River;Divorciado;Universitario
+Juan;29;Rosario Central;Soltero;Universitario
+Federico;52;Boca;Divorciado;Universitario
+Juan;41;River;Soltero;Primario
+José;27;Boca;Casado;Primario
+Lucía;48;Boca;Soltero;Secundario
+Federico;33;Boca;Casado;Universitario
+Sofía;22;Racing;Divorciado;Secundario
+Lucía;53;Boca;Viudo;Universitario
+Martín;26;River;Casado;Terciario
+Nicolás;60;Boca;Soltero;Terciario
+Martín;60;Racing;Divorciado;Secundario
+Pedro;35;Independiente;Viudo;Primario
+Martín;39;Racing;Divorciado;Universitario
+Martín;42;Racing;Soltero;Secundario
+María;42;San Lorenzo;Soltero;Universitario
+Juan;27;Huracán;Viudo;Universitario
+Lucía;19;Vélez;Soltero;Secundario
+Nicolás;69;Independiente;Casado;Primario
+Juan;55;Boca;Casado;Universitario
+Martín;38;Boca;Viudo;Secundario
+Lucas;23;Boca;Divorciado;Secundario
+María;68;Independiente;Soltero;Universitario
+Martín;59;Boca;Viudo;Universitario
+Camila;21;Racing;Casado;Secundario
+María;75;River;Soltero;Universitario
+María;46;Racing;Viudo;Universitario
+Lucía;20;Rosario Central;Soltero;Secundario
+Ana;56;River;Viudo;Primario
+Martín;14;River;Soltero;Primario
+Federico;19;Boca;Soltero;Secundario
+Lucas;41;Boca;Viudo;Secundario
+Daniel;46;Huracán;Viudo;Primario
+Daniel;33;Estudiantes;Soltero;Terciario
+Lucía;46;River;Casado;Primario
+Lucas;25;Boca;Viudo;Primario
+Nicolás;20;River;Soltero;Secundario
+Martín;46;Racing;Casado;Universitario
+Lucía;76;River;Divorciado;Universitario
+Martín;44;Boca;Casado;Terciario
+Lucas;41;Boca;Casado;Universitario
+Juan;54;Racing;Casado;Secundario
+Lucas;43;River;Casado;Primario
+Ana;48;River;Soltero;Primario
+Valentina;31;Argentinos Juniors;Soltero;Primario
+Martín;42;Boca;Casado;Secundario
+María;38;River;Soltero;Primario
+Santiago;35;Boca;Soltero;Universitario
+Federico;33;Gimnasia LP;Divorciado;Primario
+Daniel;72;Boca;Soltero;Secundario
+Ana;22;San Lorenzo;Viudo;Secundario
+Sofía;44;Boca;Viudo;Primario
+Juan;21;River;Soltero;Secundario
+Lucía;50;Racing;Soltero;Universitario
+Juan;66;Independiente;Soltero;Secundario
+Lucía;49;Independiente;Divorciado;Terciario
+Pedro;42;Huracán;Soltero;Terciario
+Federico;58;River;Casado;Secundario
+Lucas;27;Vélez;Casado;Secundario
+María;80;Boca;Casado;Terciario
+Ana;32;Boca;Casado;Terciario
+Ana;59;Independiente;Soltero;Primario
+Federico;75;Racing;Viudo;Terciario
+María;51;Estudiantes;Soltero;Secundario
+Martín;30;Racing;Viudo;Universitario
+Martín;32;Independiente;Casado;Terciario
+Daniel;51;River;Casado;Secundario
+Nicolás;27;Boca;Divorciado;Universitario
+Juan;65;Boca;Casado;Primario
+Daniel;62;Boca;Divorciado;Secundario
+Juan;34;Boca;Casado;Primario
+Martín;48;Racing;Soltero;Universitario
+María;30;Boca;Casado;Terciario
+Martín;62;Boca;Soltero;Terciario
+Martín;25;Argentinos Juniors;Viudo;Secundario
+Nicolás;32;Newells;Casado;Terciario
+Matías;46;Estudiantes;Casado;Terciario
+Valentina;32;River;Casado;Terciario
+Ana;47;River;Soltero;Secundario
+Lucía;70;Argentinos Juniors;Divorciado;Secundario
+Sofía;58;Boca;Soltero;Primario
+Lucas;58;Vélez;Divorciado;Secundario
+Juan;32;Rosario Central;Casado;Secundario
+Lucas;51;Racing;Casado;Secundario
+Ana;63;Newells;Casado;Universitario
+Lucas;83;River;Soltero;Universitario
+Lucía;74;Vélez;Divorciado;Terciario
+Lucas;70;Boca;Soltero;Secundario
+Nicolás;60;Rosario Central;Viudo;Universitario
+Martín;46;Estudiantes;Casado;Secundario
+Martín;39;River;Soltero;Universitario
+Juan;47;River;Viudo;Secundario
+Daniel;82;Racing;Divorciado;Terciario
+Juan;50;River;Viudo;Secundario
+Juan;35;River;Divorciado;Secundario
+Lucas;43;San Lorenzo;Soltero;Universitario
+Pedro;41;Independiente;Casado;Terciario
+Ana;50;San Lorenzo;Soltero;Universitario
+Juan;43;Vélez;Casado;Terciario
+Matías;57;Vélez;Divorciado;Universitario
+Martín;34;Boca;Casado;Universitario
+Martín;67;River;Soltero;Secundario
+Nicolás;39;Racing;Soltero;Universitario
+Juan;37;Vélez;Casado;Universitario
+Lucía;34;Racing;Soltero;Terciario
+Ana;35;Racing;Soltero;Universitario
+Matías;46;Boca;Casado;Universitario
+Lucas;67;Independiente;Casado;Secundario
+Juan;59;River;Casado;Secundario
+Daniel;66;Vélez;Viudo;Secundario
+Lucas;43;Rosario Central;Casado;Secundario
+Camila;14;River;Soltero;Primario
+María;40;Boca;Soltero;Secundario
+Santiago;67;Independiente;Divorciado;Secundario
+Valentina;49;River;Viudo;Universitario
+Matías;51;River;Viudo;Primario
+Pedro;69;San Lorenzo;Soltero;Universitario
+Lucía;34;San Lorenzo;Soltero;Universitario
+Matías;53;Boca;Divorciado;Secundario
+Lucía;70;River;Casado;Universitario
+Ana;38;Racing;Viudo;Secundario
+Juan;52;San Lorenzo;Casado;Secundario
+María;76;River;Divorciado;Secundario
+Valentina;25;Boca;Divorciado;Primario
+Pedro;25;River;Divorciado;Primario
+Juan;23;Boca;Casado;Universitario
+Sofía;47;Racing;Viudo;Secundario
+Juan;44;Boca;Viudo;Secundario
+Pedro;62;Boca;Viudo;Primario
+Santiago;59;River;Viudo;Universitario
+Ana;24;Boca;Soltero;Universitario
+Lucas;39;Boca;Soltero;Secundario
+Pedro;46;River;Soltero;Universitario
+María;63;Boca;Casado;Terciario
+Nicolás;68;Huracán;Casado;Primario
+Ana;85;River;Viudo;Terciario
+Nicolás;31;San Lorenzo;Viudo;Secundario
+Nicolás;60;River;Divorciado;Terciario
+José;40;River;Soltero;Secundario
+Valentina;64;Boca;Casado;Terciario
+Federico;56;Estudiantes;Divorciado;Secundario
+Ana;52;Racing;Soltero;Secundario
+Lucas;47;Boca;Casado;Secundario
+María;62;Boca;Viudo;Secundario
+Martín;53;Independiente;Soltero;Terciario
+Lucas;41;Boca;Casado;Terciario
+Matías;66;Boca;Casado;Terciario
+Martín;40;River;Casado;Secundario
+Lucas;34;River;Soltero;Secundario
+Lucas;65;Huracán;Viudo;Primario
+Lucía;18;Independiente;Soltero;Secundario
+Nicolás;38;River;Divorciado;Universitario
+José;80;Boca;Soltero;Secundario
+José;27;Racing;Casado;Terciario
+Juan;46;River;Soltero;Universitario
+Ana;39;Independiente;Viudo;Terciario
+Matías;31;River;Soltero;Primario
+Lucas;20;Boca;Soltero;Secundario
+Lucas;63;Independiente;Soltero;Universitario
+Nicolás;72;River;Soltero;Universitario
+Nicolás;26;Racing;Divorciado;Universitario
+María;31;River;Soltero;Secundario
+Matías;66;Vélez;Soltero;Universitario
+Nicolás;68;Vélez;Divorciado;Universitario
+Lucas;37;Boca;Viudo;Terciario
+Lucas;26;Boca;Soltero;Secundario
+Martín;22;Newells;Viudo;Secundario
+Daniel;47;Vélez;Casado;Universitario
+Nicolás;52;Racing;Soltero;Secundario
+Nicolás;56;San Lorenzo;Soltero;Universitario
+María;33;Boca;Soltero;Secundario
+Ana;77;Boca;Soltero;Terciario
+Nicolás;31;Boca;Viudo;Secundario
+José;35;San Lorenzo;Soltero;Universitario
+Santiago;39;Racing;Divorciado;Secundario
+Lucas;21;Boca;Casado;Secundario
+Pedro;63;Boca;Divorciado;Primario
+Nicolás;38;Estudiantes;Soltero;Secundario
+Daniel;22;Rosario Central;Viudo;Secundario
+Nicolás;41;Racing;Divorciado;Secundario
+Santiago;63;Boca;Casado;Secundario
+Lucas;36;Boca;Soltero;Universitario
+Lucas;41;River;Viudo;Secundario
+María;27;River;Casado;Primario
+Lucas;63;San Lorenzo;Soltero;Universitario
+Nicolás;41;San Lorenzo;Viudo;Secundario
+Santiago;18;Boca;Soltero;Secundario
+Lucía;41;Vélez;Soltero;Universitario
+Pedro;71;Boca;Casado;Universitario
+Pedro;55;River;Casado;Terciario
+Juan;62;Estudiantes;Soltero;Universitario
+Pedro;53;River;Soltero;Universitario
+María;44;Independiente;Soltero;Terciario
+Sofía;59;Newells;Viudo;Terciario
+Nicolás;42;Racing;Casado;Terciario
+Martín;24;Newells;Soltero;Terciario
+Juan;33;Argentinos Juniors;Soltero;Primario
+Camila;69;Racing;Viudo;Universitario
+Martín;64;River;Viudo;Universitario
+Ana;49;Independiente;Casado;Secundario
+Valentina;44;Boca;Soltero;Universitario
+Lucía;58;San Lorenzo;Viudo;Secundario
+Federico;44;River;Soltero;Secundario
+Nicolás;33;Huracán;Viudo;Universitario
+María;66;Independiente;Viudo;Primario
+Ana;52;Estudiantes;Soltero;Terciario
+Camila;57;Racing;Soltero;Primario
+Sofía;44;Estudiantes;Divorciado;Universitario
+María;76;River;Casado;Primario
+Daniel;39;Racing;Viudo;Universitario
+Juan;32;Independiente;Viudo;Primario
+María;74;Vélez;Casado;Secundario
+Juan;35;Boca;Soltero;Secundario
+Federico;58;River;Casado;Primario
+Federico;70;Gimnasia LP;Soltero;Primario
+Santiago;52;Newells;Casado;Universitario
+Pedro;48;Estudiantes;Casado;Universitario
+María;49;River;Divorciado;Secundario
+Lucía;56;River;Soltero;Universitario
+Lucas;58;Boca;Casado;Universitario
+Martín;65;River;Soltero;Terciario
+Juan;40;Newells;Soltero;Secundario
+Pedro;39;Racing;Soltero;Primario
+Valentina;39;Gimnasia LP;Soltero;Universitario
+Martín;39;River;Soltero;Secundario
+Daniel;34;Boca;Viudo;Secundario
+Sofía;41;River;Viudo;Secundario
+Nicolás;54;Boca;Soltero;Primario
+Martín;18;Estudiantes;Soltero;Secundario
+Sofía;37;Boca;Casado;Secundario
+Santiago;57;Racing;Casado;Universitario
+Juan;41;Racing;Soltero;Universitario
+Martín;23;Boca;Soltero;Terciario
+Daniel;57;Racing;Divorciado;Primario
+Nicolás;54;River;Soltero;Universitario
+Juan;77;River;Divorciado;Terciario
+Martín;49;Independiente;Casado;Secundario
+Matías;45;Vélez;Soltero;Secundario
+Nicolás;47;Estudiantes;Casado;Universitario
+María;30;San Lorenzo;Casado;Primario
+Martín;69;San Lorenzo;Casado;Secundario
+Martín;68;Independiente;Soltero;Secundario
+Martín;38;Boca;Soltero;Primario
+Juan;32;River;Casado;Universitario
+Camila;33;River;Casado;Primario
+María;77;River;Soltero;Primario
+Juan;35;River;Soltero;Universitario
+Lucía;49;Racing;Viudo;Primario
+María;29;Independiente;Divorciado;Secundario
+Lucas;59;Huracán;Viudo;Universitario
+Juan;29;Vélez;Viudo;Secundario
+María;47;River;Casado;Secundario
+Camila;64;Independiente;Casado;Terciario
+Martín;37;Boca;Soltero;Terciario
+Daniel;40;Vélez;Casado;Secundario
+Federico;19;San Lorenzo;Soltero;Secundario
+José;31;Rosario Central;Soltero;Universitario
+Martín;47;Newells;Casado;Terciario
+Santiago;42;River;Casado;Universitario
+Daniel;40;Racing;Casado;Secundario
+Ana;30;River;Casado;Secundario
+Juan;44;Newells;Casado;Terciario
+María;53;Boca;Soltero;Universitario
+Lucía;60;Racing;Casado;Universitario
+Federico;27;River;Casado;Terciario
+Lucas;42;Vélez;Casado;Terciario
+Ana;43;Huracán;Soltero;Terciario
+Ana;61;River;Divorciado;Secundario
+Ana;38;Boca;Divorciado;Secundario
+Martín;50;River;Divorciado;Primario
+Pedro;42;Boca;Viudo;Primario
+Martín;56;River;Casado;Secundario
+Camila;71;Boca;Casado;Secundario
+Pedro;65;River;Soltero;Universitario
+Federico;80;San Lorenzo;Casado;Secundario
+Sofía;59;Boca;Casado;Primario
+Lucía;70;Boca;Divorciado;Universitario
+Camila;42;Independiente;Casado;Universitario
+Matías;30;Boca;Divorciado;Universitario
+Martín;27;Boca;Divorciado;Secundario
+Matías;34;Independiente;Casado;Primario
+Pedro;44;Newells;Casado;Terciario
+Juan;52;River;Soltero;Universitario
+María;54;River;Divorciado;Primario
+Juan;27;Racing;Casado;Secundario
+María;54;Newells;Soltero;Secundario
+María;28;Independiente;Soltero;Universitario
+Nicolás;44;Argentinos Juniors;Soltero;Universitario
+Martín;41;Boca;Viudo;Terciario
+Federico;56;Newells;Viudo;Secundario
+José;33;Vélez;Viudo;Universitario
+María;50;Rosario Central;Casado;Universitario
+Juan;45;River;Casado;Universitario
+Nicolás;20;River;Soltero;Secundario
+Pedro;51;Boca;Casado;Secundario
+Lucía;60;San Lorenzo;Soltero;Universitario
+Lucas;66;Estudiantes;Soltero;Secundario
+Nicolás;42;River;Viudo;Universitario
+Martín;63;River;Casado;Secundario
+Santiago;35;Boca;Viudo;Secundario
+Santiago;58;Independiente;Casado;Universitario
+Martín;40;Estudiantes;Viudo;Universitario
+Matías;73;River;Casado;Secundario
+Nicolás;48;Huracán;Soltero;Primario
+Santiago;56;River;Casado;Universitario
+Camila;44;River;Viudo;Secundario
+Martín;36;River;Soltero;Secundario
+Juan;22;Independiente;Divorciado;Secundario
+Daniel;34;Racing;Viudo;Universitario
+Sofía;42;Boca;Divorciado;Secundario
+Ana;36;River;Soltero;Universitario
+Martín;31;River;Viudo;Universitario
+María;23;Boca;Soltero;Secundario
+José;41;Boca;Divorciado;Universitario
+Nicolás;59;Racing;Soltero;Terciario
+Lucas;26;Racing;Viudo;Secundario
+Juan;15;Boca;Soltero;Primario
+Santiago;34;Boca;Viudo;Secundario
+Martín;30;Boca;Casado;Secundario
+José;18;Racing;Soltero;Secundario
+Juan;73;River;Casado;Primario
+Camila;51;San Lorenzo;Casado;Secundario
+Sofía;49;Boca;Soltero;Primario
+Juan;35;San Lorenzo;Casado;Primario
+Nicolás;31;Boca;Casado;Universitario
+Nicolás;40;River;Casado;Universitario
+Sofía;38;Vélez;Soltero;Secundario
+Lucía;62;Newells;Casado;Universitario
+Lucas;41;San Lorenzo;Casado;Terciario
+Nicolás;37;River;Viudo;Secundario
+Federico;50;River;Soltero;Primario
+Juan;41;Independiente;Soltero;Primario
+Nicolás;47;Boca;Viudo;Primario
+Juan;33;River;Soltero;Secundario
+Federico;36;San Lorenzo;Soltero;Primario
+Sofía;53;River;Soltero;Secundario
+Santiago;40;Racing;Soltero;Terciario
+Martín;27;River;Casado;Universitario
+Ana;45;Vélez;Casado;Terciario
+Nicolás;61;Boca;Casado;Terciario
+Valentina;48;Boca;Soltero;Universitario
+Nicolás;55;San Lorenzo;Casado;Primario
+Lucas;28;River;Viudo;Secundario
+Lucía;57;Independiente;Soltero;Secundario
+Juan;41;Boca;Soltero;Secundario
+Sofía;44;Boca;Soltero;Universitario
+Santiago;71;Racing;Soltero;Universitario
+Lucía;65;Boca;Divorciado;Secundario
+Lucas;60;Boca;Soltero;Secundario
+Nicolás;68;River;Divorciado;Primario
+Lucas;32;River;Soltero;Universitario
+Lucía;36;Boca;Casado;Secundario
+Pedro;31;River;Casado;Secundario
+Sofía;59;San Lorenzo;Soltero;Primario
+María;58;River;Soltero;Universitario
+Federico;51;San Lorenzo;Casado;Secundario
+Pedro;55;Independiente;Casado;Universitario
+José;49;River;Casado;Secundario
+Juan;50;River;Soltero;Universitario
+Juan;31;Independiente;Viudo;Terciario
+Ana;32;Independiente;Soltero;Universitario
+María;60;Racing;Casado;Terciario
+Lucas;39;Racing;Divorciado;Universitario
+Martín;57;Independiente;Viudo;Secundario
+Nicolás;53;Gimnasia LP;Viudo;Primario
+Matías;14;San Lorenzo;Soltero;Primario
+Federico;35;Boca;Soltero;Primario
+Lucas;69;Independiente;Casado;Secundario
+Juan;75;River;Divorciado;Universitario
+Santiago;52;Racing;Soltero;Secundario
+María;42;Boca;Divorciado;Secundario
+Valentina;36;River;Casado;Universitario
+Martín;69;Boca;Viudo;Secundario
+Lucía;40;River;Divorciado;Primario
+Valentina;31;River;Viudo;Universitario
+Pedro;39;Boca;Soltero;Universitario
+Juan;57;Boca;Soltero;Universitario
+Sofía;33;River;Divorciado;Universitario
+Sofía;45;Huracán;Casado;Terciario
+Santiago;54;River;Casado;Secundario
+Ana;27;River;Viudo;Secundario
+María;68;Rosario Central;Viudo;Primario
+Lucía;48;Boca;Soltero;Secundario
+Pedro;43;Independiente;Soltero;Universitario
+Camila;44;River;Casado;Secundario
+María;48;River;Divorciado;Universitario
+Camila;27;Racing;Soltero;Secundario
+Ana;61;Boca;Divorciado;Primario
+Ana;41;River;Casado;Universitario
+Juan;31;San Lorenzo;Soltero;Secundario
+Martín;41;Racing;Divorciado;Universitario
+Lucía;31;Independiente;Soltero;Terciario
+Camila;30;Racing;Soltero;Universitario
+Ana;78;River;Casado;Secundario
+Juan;38;Huracán;Casado;Universitario
+Nicolás;37;Boca;Divorciado;Universitario
+Martín;31;Racing;Divorciado;Secundario
+Juan;59;River;Casado;Secundario
+Daniel;52;Independiente;Divorciado;Universitario
+Sofía;29;Rosario Central;Viudo;Secundario
+Ana;38;Newells;Soltero;Primario
+Matías;48;Racing;Soltero;Secundario
+Juan;26;Racing;Soltero;Universitario
+Ana;52;Newells;Casado;Terciario
+Pedro;27;River;Soltero;Terciario
+Valentina;36;Independiente;Soltero;Secundario
+Federico;25;San Lorenzo;Casado;Universitario
+Martín;82;Independiente;Soltero;Terciario
+Juan;45;River;Divorciado;Universitario
+Ana;27;River;Soltero;Universitario
+Camila;39;Boca;Soltero;Secundario
+Lucas;34;Estudiantes;Divorciado;Secundario
+Matías;39;River;Casado;Secundario
+Pedro;28;Boca;Divorciado;Universitario
+Nicolás;37;Gimnasia LP;Casado;Primario
+Lucas;48;Independiente;Soltero;Terciario
+Pedro;32;Boca;Soltero;Secundario
+Santiago;29;Boca;Viudo;Secundario
+Lucía;31;River;Divorciado;Universitario
+Lucas;23;Independiente;Casado;Universitario
+Pedro;66;San Lorenzo;Divorciado;Universitario
+Daniel;27;Boca;Casado;Universitario
+Ana;50;Boca;Soltero;Secundario
+Valentina;53;Huracán;Soltero;Universitario
+Santiago;64;River;Soltero;Primario
+Lucas;70;River;Soltero;Secundario
+Ana;45;River;Casado;Universitario
+Martín;28;Vélez;Soltero;Secundario
+Martín;29;River;Soltero;Primario
+José;59;Gimnasia LP;Casado;Terciario
+Nicolás;51;Racing;Soltero;Primario
+Pedro;49;San Lorenzo;Casado;Universitario
+María;30;Independiente;Casado;Terciario
+Juan;68;Independiente;Casado;Universitario
+Santiago;62;Independiente;Casado;Primario
+Valentina;27;Huracán;Casado;Universitario
+Juan;34;Boca;Soltero;Secundario
+Pedro;23;Independiente;Viudo;Terciario
+Sofía;64;Racing;Soltero;Universitario
+Camila;66;Independiente;Casado;Secundario
+Martín;46;Newells;Soltero;Secundario
+Federico;56;Huracán;Casado;Secundario
+Nicolás;31;Boca;Divorciado;Secundario
+Martín;35;San Lorenzo;Soltero;Universitario
+Juan;52;Boca;Soltero;Terciario
+Sofía;53;Boca;Viudo;Primario
+Juan;24;Huracán;Casado;Primario
+Juan;33;Boca;Divorciado;Universitario
+Daniel;54;Boca;Casado;Universitario
+José;46;Boca;Casado;Secundario
+Lucía;49;Boca;Casado;Universitario
+Martín;28;Gimnasia LP;Viudo;Secundario
+Martín;41;San Lorenzo;Divorciado;Secundario
+Sofía;29;River;Casado;Universitario
+Santiago;71;Boca;Viudo;Primario
+Juan;65;Racing;Divorciado;Secundario
+Lucía;21;Newells;Soltero;Secundario
+Martín;41;Boca;Casado;Secundario
+Pedro;41;San Lorenzo;Casado;Secundario
+María;82;Boca;Casado;Terciario
+Daniel;59;Boca;Casado;Universitario
+José;52;Boca;Casado;Terciario
+Camila;46;Boca;Casado;Universitario
+Nicolás;64;Boca;Casado;Terciario
+Martín;33;Boca;Viudo;Secundario
+Juan;28;Independiente;Soltero;Universitario
+Martín;33;Newells;Casado;Secundario
+Juan;49;Newells;Viudo;Secundario
+María;56;Boca;Casado;Primario
+Ana;52;River;Soltero;Primario
+Juan;35;River;Soltero;Secundario
+María;66;River;Viudo;Terciario
+Federico;35;Independiente;Viudo;Universitario
+Pedro;33;Boca;Viudo;Secundario
+Juan;20;Racing;Soltero;Secundario
+Lucas;37;River;Soltero;Primario
+Martín;28;River;Soltero;Universitario
+Matías;34;Boca;Viudo;Primario
+Pedro;54;Racing;Casado;Secundario
+Martín;28;Boca;Casado;Terciario
+Daniel;38;San Lorenzo;Divorciado;Secundario
+Federico;31;River;Soltero;Secundario
+Santiago;26;Newells;Casado;Primario
+Lucía;39;River;Casado;Universitario
+Valentina;21;Racing;Viudo;Secundario
+Juan;40;Huracán;Divorciado;Primario
+Lucas;16;Rosario Central;Soltero;Primario
+Lucía;19;River;Soltero;Secundario
+Juan;34;Independiente;Viudo;Universitario
+Lucía;34;Independiente;Viudo;Secundario
+Santiago;37;Argentinos Juniors;Viudo;Secundario
+Camila;31;River;Divorciado;Terciario
+Juan;26;San Lorenzo;Soltero;Secundario
+Santiago;45;Racing;Divorciado;Primario
+Lucía;28;Boca;Viudo;Primario
+Juan;74;River;Soltero;Secundario
+Ana;70;River;Soltero;Secundario
+Juan;23;Boca;Casado;Primario
+Martín;62;Independiente;Casado;Universitario
+Ana;25;Racing;Soltero;Secundario
+Lucía;69;Newells;Viudo;Universitario
+Lucas;16;Huracán;Soltero;Primario
+Juan;77;Estudiantes;Casado;Universitario
+Santiago;43;Vélez;Soltero;Terciario
+Nicolás;46;Boca;Soltero;Universitario
+Pedro;31;Racing;Soltero;Secundario
+Lucas;21;San Lorenzo;Soltero;Secundario
+Sofía;39;Independiente;Viudo;Primario
+Nicolás;38;Boca;Soltero;Universitario
+Ana;55;Boca;Soltero;Primario
+Martín;61;Boca;Casado;Secundario
+Juan;74;Estudiantes;Viudo;Terciario
+Daniel;45;River;Divorciado;Secundario
+Lucas;40;Newells;Soltero;Secundario
+Martín;62;River;Divorciado;Universitario
+Lucía;36;Vélez;Casado;Primario
+Lucía;59;Vélez;Viudo;Terciario
+Nicolás;63;River;Soltero;Universitario
+Juan;48;Boca;Soltero;Secundario
+Martín;30;Racing;Viudo;Secundario
+Federico;72;River;Soltero;Terciario
+Ana;39;Boca;Soltero;Primario
+María;19;Huracán;Soltero;Secundario
+Lucía;44;Rosario Central;Casado;Universitario
+Pedro;42;Independiente;Viudo;Universitario
+Martín;54;Independiente;Viudo;Secundario
+Martín;80;Estudiantes;Casado;Universitario
+Martín;51;Boca;Viudo;Primario
+Martín;44;Argentinos Juniors;Soltero;Terciario
+Pedro;31;Racing;Viudo;Secundario
+María;31;Racing;Casado;Primario
+Santiago;29;Huracán;Casado;Universitario
+Lucía;40;Huracán;Casado;Universitario
+Juan;43;River;Soltero;Universitario
+Martín;41;River;Soltero;Universitario
+Nicolás;42;Racing;Soltero;Secundario
+Federico;41;Boca;Soltero;Primario
+María;71;River;Soltero;Secundario
+Sofía;52;Rosario Central;Casado;Secundario
+Lucía;76;Boca;Casado;Secundario
+Martín;48;River;Viudo;Universitario
+Federico;22;River;Casado;Secundario
+Ana;37;River;Soltero;Secundario
+Martín;43;San Lorenzo;Viudo;Universitario
+Martín;37;River;Viudo;Primario
+Santiago;33;Boca;Soltero;Universitario
+Santiago;51;Boca;Viudo;Secundario
+Pedro;32;Independiente;Casado;Secundario
+María;65;River;Casado;Primario
+Juan;58;Boca;Divorciado;Terciario
+María;34;River;Soltero;Secundario
+Pedro;27;River;Soltero;Secundario
+Lucas;65;San Lorenzo;Casado;Secundario
+Santiago;25;River;Soltero;Secundario
+Ana;35;Independiente;Viudo;Universitario
+Santiago;29;Racing;Casado;Terciario
+Federico;45;Huracán;Casado;Universitario
+Ana;36;Racing;Soltero;Terciario
+Juan;20;Boca;Soltero;Secundario
+Matías;59;River;Viudo;Primario
+Valentina;38;Argentinos Juniors;Viudo;Universitario
+Ana;40;River;Soltero;Universitario
+Santiago;50;Boca;Casado;Secundario
+Nicolás;38;Boca;Casado;Terciario
+Juan;35;Vélez;Casado;Terciario
+Matías;26;River;Soltero;Primario
+Santiago;41;Vélez;Soltero;Secundario
+Martín;72;Boca;Casado;Terciario
+Juan;31;Boca;Soltero;Secundario
+Sofía;25;Huracán;Viudo;Secundario
+Lucas;32;Vélez;Divorciado;Secundario
+Pedro;33;River;Soltero;Terciario
+Federico;34;River;Divorciado;Secundario
+Santiago;33;River;Divorciado;Universitario
+Juan;41;Huracán;Viudo;Universitario
+Lucas;41;Boca;Viudo;Secundario
+Santiago;31;Independiente;Viudo;Primario
+Juan;31;Independiente;Casado;Universitario
+Juan;69;Estudiantes;Casado;Secundario
+Lucía;61;San Lorenzo;Soltero;Secundario
+Federico;32;Independiente;Casado;Universitario
+Ana;80;River;Viudo;Primario
+Ana;36;Independiente;Casado;Secundario
+Federico;24;Independiente;Divorciado;Universitario
+Juan;40;Racing;Viudo;Secundario
+Juan;63;Racing;Casado;Universitario
+Sofía;32;River;Casado;Universitario
+Valentina;57;River;Casado;Universitario
+Juan;36;River;Soltero;Universitario
+Daniel;36;Huracán;Divorciado;Secundario
+Nicolás;40;Gimnasia LP;Soltero;Primario
+Martín;54;Rosario Central;Casado;Universitario
+Ana;30;Newells;Soltero;Terciario
+Lucas;47;Racing;Casado;Universitario
+Federico;77;Independiente;Divorciado;Terciario
+Santiago;32;Rosario Central;Soltero;Secundario
+Daniel;59;Newells;Soltero;Terciario
+Lucía;29;Independiente;Casado;Primario
+Juan;28;Newells;Soltero;Secundario
+Martín;41;River;Divorciado;Secundario
+Santiago;35;San Lorenzo;Soltero;Secundario
+Nicolás;29;Boca;Soltero;Primario
+Nicolás;40;River;Divorciado;Universitario
+Matías;34;Racing;Divorciado;Secundario
+María;23;Vélez;Casado;Universitario
+Lucía;43;San Lorenzo;Soltero;Universitario
+Camila;26;Independiente;Casado;Secundario
+Lucas;29;Independiente;Viudo;Secundario
+Nicolás;58;River;Casado;Universitario
+Juan;73;Boca;Casado;Universitario
+Daniel;22;Argentinos Juniors;Soltero;Secundario
+Juan;48;River;Divorciado;Primario
+Martín;26;Boca;Viudo;Secundario
+Lucas;29;Racing;Viudo;Primario
+Sofía;42;Boca;Casado;Universitario
+Santiago;43;River;Soltero;Terciario
+José;41;Boca;Soltero;Universitario
+Ana;37;River;Soltero;Universitario
+Lucía;45;River;Divorciado;Secundario
+María;32;River;Viudo;Secundario
+María;49;River;Casado;Secundario
+Nicolás;61;Racing;Divorciado;Terciario
+Ana;38;Racing;Soltero;Universitario
+Juan;26;Boca;Divorciado;Universitario
+Lucía;33;Newells;Divorciado;Primario
+Camila;72;River;Soltero;Primario
+Nicolás;46;River;Divorciado;Universitario
+Santiago;44;Boca;Viudo;Secundario
+María;33;Vélez;Soltero;Universitario
+Juan;53;River;Casado;Universitario
+Lucas;26;Racing;Soltero;Universitario
+María;52;Estudiantes;Soltero;Universitario
+Santiago;32;Independiente;Divorciado;Primario
+Lucas;40;Boca;Soltero;Universitario
+Nicolás;44;Huracán;Casado;Terciario
+Lucas;37;River;Soltero;Universitario
+Ana;41;River;Casado;Terciario
+María;27;Independiente;Casado;Secundario
+Lucía;24;Newells;Soltero;Terciario
+Lucía;68;Boca;Casado;Primario
+Matías;56;River;Casado;Secundario
+Pedro;54;Boca;Casado;Secundario
+Valentina;42;River;Viudo;Universitario
+Lucas;32;Boca;Casado;Universitario
+Nicolás;66;San Lorenzo;Soltero;Primario
+Federico;64;Boca;Casado;Primario
+Nicolás;50;Boca;Divorciado;Secundario
+Sofía;50;Racing;Casado;Secundario
+Ana;39;Independiente;Casado;Universitario
+Santiago;38;River;Viudo;Primario
+Sofía;71;Boca;Casado;Universitario
+Nicolás;57;River;Viudo;Universitario
+Santiago;47;Vélez;Casado;Universitario
+Lucas;31;Independiente;Casado;Universitario
+María;40;Huracán;Divorciado;Universitario
+Sofía;24;Argentinos Juniors;Viudo;Terciario
+María;71;Newells;Soltero;Universitario
+Martín;23;Racing;Viudo;Terciario
+Lucía;62;Argentinos Juniors;Divorciado;Universitario
+Nicolás;30;River;Soltero;Terciario
+Santiago;68;Rosario Central;Soltero;Universitario
+Lucía;51;San Lorenzo;Casado;Terciario
+Ana;42;Boca;Soltero;Terciario
+Ana;44;Independiente;Soltero;Universitario
+Juan;63;Huracán;Casado;Universitario
+Valentina;24;Boca;Casado;Secundario
+Nicolás;31;Racing;Viudo;Universitario
+Martín;75;Racing;Soltero;Secundario
+Ana;43;Racing;Viudo;Universitario
+Lucas;45;San Lorenzo;Soltero;Secundario
+Pedro;56;Rosario Central;Soltero;Secundario
+María;78;Racing;Soltero;Universitario
+Juan;28;Boca;Divorciado;Universitario
+Martín;43;Huracán;Divorciado;Terciario
+María;43;Independiente;Divorciado;Primario
+Martín;39;Racing;Soltero;Secundario
+Nicolás;65;Newells;Casado;Secundario
+Santiago;54;Racing;Soltero;Primario
+Santiago;39;Independiente;Casado;Universitario
+Nicolás;69;Independiente;Soltero;Secundario
+Juan;38;Estudiantes;Casado;Terciario
+Daniel;32;Racing;Casado;Universitario
+Ana;63;Boca;Viudo;Primario
+Daniel;35;Huracán;Soltero;Secundario
+Martín;54;River;Divorciado;Universitario
+Lucas;46;River;Viudo;Primario
+Pedro;27;Huracán;Viudo;Universitario
+Martín;45;Independiente;Casado;Secundario
+Lucía;22;Huracán;Soltero;Secundario
+Martín;51;Boca;Soltero;Secundario
+Juan;36;Independiente;Casado;Terciario
+Ana;83;Estudiantes;Viudo;Primario
+Juan;47;Independiente;Soltero;Universitario
+Nicolás;51;Rosario Central;Viudo;Secundario
+Santiago;62;River;Viudo;Terciario
+Juan;25;Newells;Divorciado;Secundario
+Nicolás;34;River;Viudo;Universitario
+Juan;66;Racing;Casado;Universitario
+Nicolás;76;Boca;Casado;Primario
+Nicolás;38;River;Soltero;Universitario
+Juan;71;Racing;Viudo;Universitario
+Nicolás;38;River;Soltero;Secundario
+Martín;38;Boca;Casado;Universitario
+Martín;76;Newells;Soltero;Primario
+Sofía;43;Racing;Viudo;Universitario
+Santiago;40;River;Soltero;Secundario
+Valentina;48;Boca;Divorciado;Universitario
+Daniel;33;Boca;Viudo;Terciario
+Sofía;82;Argentinos Juniors;Soltero;Secundario
+Santiago;46;Estudiantes;Soltero;Universitario
+Nicolás;38;Newells;Viudo;Primario
+Martín;28;Racing;Divorciado;Secundario
+Lucas;66;River;Casado;Universitario
+Camila;50;River;Casado;Universitario
+Santiago;44;Boca;Soltero;Secundario
+Lucas;69;Newells;Divorciado;Terciario
+Ana;35;Independiente;Casado;Secundario
+Juan;30;River;Divorciado;Terciario
+Juan;33;Racing;Soltero;Secundario
+Ana;42;Newells;Casado;Universitario
+Lucía;26;San Lorenzo;Viudo;Universitario
+Martín;67;San Lorenzo;Soltero;Universitario
+José;29;River;Casado;Secundario
+Juan;35;River;Soltero;Universitario
+Juan;52;River;Casado;Primario
+Federico;35;Argentinos Juniors;Divorciado;Secundario
+Ana;25;River;Viudo;Terciario
+Lucas;64;Racing;Soltero;Universitario
+Santiago;39;Gimnasia LP;Viudo;Terciario
+Daniel;54;River;Casado;Secundario
+Martín;22;Newells;Casado;Secundario
+Martín;58;Estudiantes;Viudo;Secundario
+Martín;52;San Lorenzo;Casado;Universitario
+Lucas;19;River;Soltero;Secundario
+Santiago;34;River;Viudo;Universitario
+Federico;14;River;Soltero;Primario
+Camila;41;Newells;Viudo;Primario
+Daniel;73;Gimnasia LP;Viudo;Universitario
+Camila;67;Racing;Casado;Primario
+Matías;35;River;Casado;Universitario
+María;40;River;Soltero;Secundario
+Lucía;42;Huracán;Divorciado;Primario
+María;85;Boca;Soltero;Secundario
+Ana;53;River;Divorciado;Secundario
+Juan;57;Boca;Viudo;Terciario
+María;39;Racing;Divorciado;Secundario
+Nicolás;29;Vélez;Casado;Universitario
+Santiago;32;Newells;Divorciado;Primario
+Sofía;53;Boca;Divorciado;Universitario
+María;51;Boca;Viudo;Universitario
+Federico;65;San Lorenzo;Soltero;Primario
+Nicolás;60;San Lorenzo;Soltero;Universitario
+Lucas;54;River;Casado;Universitario
+Martín;39;San Lorenzo;Casado;Secundario
+Lucas;66;Racing;Viudo;Primario
+Camila;42;River;Soltero;Terciario
+Sofía;20;Boca;Soltero;Secundario
+Lucas;45;River;Casado;Universitario
+Matías;36;River;Casado;Secundario
+Santiago;34;River;Casado;Terciario
+Juan;54;River;Divorciado;Universitario
+Nicolás;46;River;Casado;Terciario
+Nicolás;53;Racing;Casado;Universitario
+Camila;37;Boca;Casado;Secundario
+Nicolás;22;Boca;Soltero;Secundario
+Juan;50;Independiente;Casado;Secundario
+Martín;41;Huracán;Soltero;Universitario
+Camila;61;Newells;Viudo;Terciario
+María;58;Boca;Casado;Secundario
+Federico;42;Argentinos Juniors;Casado;Terciario
+Martín;57;Boca;Divorciado;Secundario
+Lucas;71;Gimnasia LP;Viudo;Universitario
+Ana;37;Huracán;Divorciado;Universitario
+Nicolás;24;Rosario Central;Viudo;Universitario
+Juan;61;San Lorenzo;Soltero;Terciario
+Ana;50;Boca;Casado;Universitario
+Pedro;40;Racing;Casado;Secundario
+Nicolás;25;Huracán;Viudo;Terciario
+María;34;Boca;Casado;Terciario
+José;36;Huracán;Casado;Primario
+Lucas;30;Estudiantes;Soltero;Primario
+María;51;River;Soltero;Terciario
+María;21;Racing;Casado;Secundario
+Martín;33;Independiente;Casado;Secundario
+Lucía;41;River;Viudo;Secundario
+Nicolás;40;Boca;Divorciado;Primario
+Ana;23;River;Viudo;Secundario
+Juan;80;Argentinos Juniors;Soltero;Universitario
+María;32;River;Soltero;Universitario
+Santiago;44;Racing;Soltero;Universitario
+Lucía;36;River;Soltero;Universitario
+Martín;22;Rosario Central;Casado;Secundario
+Federico;38;Rosario Central;Viudo;Universitario
+María;56;River;Viudo;Secundario
+Federico;34;Huracán;Casado;Secundario
+Santiago;67;Boca;Divorciado;Primario
+Matías;44;San Lorenzo;Divorciado;Universitario
+María;42;Boca;Viudo;Primario
+Daniel;30;Boca;Viudo;Universitario
+Martín;62;Boca;Viudo;Universitario
+Pedro;33;River;Viudo;Terciario
+José;35;Argentinos Juniors;Viudo;Secundario
+Federico;19;San Lorenzo;Soltero;Secundario
+Santiago;28;River;Casado;Universitario
+Lucía;46;Racing;Divorciado;Universitario
+Ana;75;Newells;Divorciado;Secundario
+Nicolás;61;Boca;Casado;Secundario
+Lucía;55;Rosario Central;Casado;Secundario
+Juan;56;San Lorenzo;Casado;Secundario
+Nicolás;57;Boca;Divorciado;Universitario
+Juan;72;Boca;Divorciado;Universitario
+Juan;77;San Lorenzo;Viudo;Secundario
+Daniel;35;Rosario Central;Casado;Universitario
+Matías;26;San Lorenzo;Soltero;Primario
+María;24;Independiente;Soltero;Secundario
+Ana;32;Huracán;Soltero;Terciario
+Daniel;35;San Lorenzo;Soltero;Secundario
+Lucas;38;Rosario Central;Casado;Secundario
+Lucas;51;Newells;Viudo;Primario
+Lucas;40;Gimnasia LP;Divorciado;Universitario
+Nicolás;42;Newells;Divorciado;Universitario
+Juan;50;River;Viudo;Universitario
+Lucía;51;Gimnasia LP;Viudo;Primario
+Lucía;67;River;Casado;Secundario
+Camila;30;Vélez;Casado;Primario
+Lucas;67;Racing;Soltero;Primario
+Matías;45;Boca;Divorciado;Universitario
+Pedro;62;River;Soltero;Secundario
+Juan;53;Independiente;Viudo;Universitario
+Nicolás;26;Rosario Central;Casado;Secundario
+Lucas;76;Racing;Divorciado;Secundario
+Martín;47;River;Casado;Secundario
+Martín;39;Rosario Central;Soltero;Secundario
+Lucas;78;Racing;Divorciado;Terciario
+Sofía;47;Estudiantes;Divorciado;Universitario
+Lucas;31;Newells;Soltero;Universitario
+Sofía;24;River;Soltero;Secundario
+Ana;26;River;Soltero;Universitario
+Martín;62;San Lorenzo;Casado;Universitario
+Juan;48;Boca;Soltero;Primario
+María;38;Racing;Casado;Secundario
+Camila;61;River;Viudo;Primario
+Nicolás;50;River;Divorciado;Secundario
+Lucas;22;Independiente;Viudo;Secundario
+Lucía;35;Racing;Soltero;Secundario
+Martín;33;San Lorenzo;Divorciado;Secundario
+Juan;38;Rosario Central;Casado;Terciario
+Pedro;17;Rosario Central;Soltero;Primario
+Juan;60;River;Soltero;Primario
+Camila;56;River;Soltero;Universitario
+Martín;47;Racing;Casado;Secundario
+Nicolás;35;Independiente;Divorciado;Universitario
+Ana;64;Racing;Divorciado;Secundario
+Lucía;46;River;Casado;Universitario
+Juan;43;River;Soltero;Universitario
+Daniel;45;San Lorenzo;Soltero;Primario
+Federico;38;River;Casado;Universitario
+María;27;Boca;Casado;Universitario
+Ana;18;Racing;Soltero;Secundario
+Federico;41;Estudiantes;Casado;Terciario
+Lucas;70;River;Casado;Terciario
+Nicolás;42;Racing;Soltero;Universitario
+Juan;69;River;Casado;Secundario
+Valentina;62;Boca;Casado;Primario
+Santiago;20;Racing;Soltero;Secundario
+Pedro;39;Boca;Divorciado;Primario
+Juan;23;Racing;Soltero;Universitario
+Juan;64;Independiente;Casado;Secundario
+Nicolás;15;Independiente;Soltero;Primario
+Juan;41;Gimnasia LP;Casado;Secundario
+Lucas;13;Independiente;Soltero;Primario
+Juan;36;Independiente;Viudo;Secundario
+Juan;19;Boca;Soltero;Secundario
+Martín;77;Boca;Divorciado;Universitario
+Santiago;38;River;Viudo;Secundario
+Daniel;46;San Lorenzo;Soltero;Secundario
+Juan;40;Independiente;Soltero;Universitario
+Federico;31;Boca;Viudo;Secundario
+María;42;Racing;Soltero;Primario
+Martín;24;River;Casado;Secundario
+Juan;31;Racing;Viudo;Secundario
+Matías;30;River;Casado;Terciario
+Juan;24;River;Soltero;Terciario
+Lucas;67;Newells;Viudo;Primario
+Federico;15;Boca;Soltero;Primario
+Federico;50;Newells;Soltero;Primario
+Martín;17;Boca;Soltero;Primario
+Daniel;59;Newells;Viudo;Universitario
+Sofía;49;Huracán;Casado;Secundario
+Federico;61;River;Casado;Primario
+Martín;42;Boca;Casado;Secundario
+Martín;56;River;Viudo;Secundario
+Juan;39;Racing;Casado;Universitario
+Pedro;54;San Lorenzo;Soltero;Primario
+Lucas;55;River;Divorciado;Terciario
+Juan;24;Boca;Casado;Universitario
+Federico;49;Estudiantes;Soltero;Secundario
+Lucía;23;River;Casado;Primario
+Camila;47;Boca;Viudo;Universitario
+Sofía;28;Independiente;Soltero;Universitario
+María;58;Racing;Soltero;Universitario
+Martín;53;Estudiantes;Soltero;Terciario
+María;31;River;Viudo;Secundario
+Juan;79;River;Viudo;Universitario
+Santiago;62;Huracán;Viudo;Primario
+Pedro;33;River;Casado;Terciario
+Juan;58;San Lorenzo;Divorciado;Universitario
+Camila;21;Boca;Casado;Secundario
+María;47;Estudiantes;Divorciado;Universitario
+Juan;37;Boca;Viudo;Primario
+José;61;Vélez;Viudo;Universitario
+Juan;49;Boca;Soltero;Universitario
+Sofía;41;Newells;Casado;Terciario
+Daniel;45;River;Soltero;Universitario
+Sofía;50;Boca;Casado;Terciario
+Ana;22;River;Casado;Secundario
+Juan;39;River;Soltero;Primario
+Ana;57;Boca;Soltero;Universitario
+Juan;58;River;Casado;Secundario
+Daniel;42;Racing;Casado;Universitario
+Pedro;28;Argentinos Juniors;Soltero;Secundario
+Nicolás;20;River;Soltero;Secundario
+Juan;29;Newells;Divorciado;Secundario
+Ana;50;San Lorenzo;Viudo;Secundario
+María;74;Racing;Casado;Secundario
+Nicolás;62;Boca;Soltero;Secundario
+Lucas;48;Boca;Viudo;Primario
+Lucía;56;Estudiantes;Casado;Universitario
+María;52;Independiente;Casado;Primario
+Daniel;48;Independiente;Soltero;Terciario
+José;30;Vélez;Viudo;Secundario
+Pedro;49;River;Soltero;Universitario
+Lucía;28;Boca;Casado;Universitario
+Juan;51;River;Casado;Universitario
+Martín;57;San Lorenzo;Casado;Terciario
+Martín;39;River;Casado;Secundario
+Daniel;37;Boca;Soltero;Terciario
+Santiago;19;Gimnasia LP;Soltero;Secundario
+Juan;41;River;Viudo;Universitario
+Juan;61;Independiente;Divorciado;Primario
+Nicolás;34;River;Viudo;Secundario
+Santiago;22;River;Soltero;Secundario
+Santiago;38;Boca;Soltero;Terciario
+María;51;River;Divorciado;Terciario
+Sofía;33;Boca;Soltero;Primario
+Lucas;37;Boca;Casado;Primario
+Martín;29;Estudiantes;Soltero;Primario
+Ana;18;River;Soltero;Secundario
+Nicolás;66;Newells;Soltero;Primario
+Martín;66;Huracán;Soltero;Secundario
+Martín;26;San Lorenzo;Casado;Universitario
+Martín;47;Estudiantes;Soltero;Universitario
+Federico;54;Boca;Divorciado;Universitario
+Juan;58;River;Casado;Universitario
+Martín;67;Boca;Divorciado;Secundario
+Santiago;38;Boca;Divorciado;Terciario
+Juan;34;Boca;Divorciado;Universitario
+Santiago;37;Boca;Soltero;Terciario
+Martín;68;Boca;Soltero;Secundario
+Martín;29;San Lorenzo;Casado;Secundario
+Ana;65;Gimnasia LP;Casado;Secundario
+María;20;Newells;Soltero;Secundario
+Daniel;36;Estudiantes;Soltero;Primario
+Martín;33;Racing;Divorciado;Universitario
+Ana;38;Newells;Soltero;Secundario
+Nicolás;58;San Lorenzo;Viudo;Universitario
+Martín;36;River;Soltero;Universitario
+Santiago;75;San Lorenzo;Divorciado;Secundario
+Sofía;22;Racing;Soltero;Secundario
+Juan;50;River;Soltero;Secundario
+Lucas;51;Boca;Soltero;Primario
+José;54;River;Viudo;Primario
+Ana;39;Huracán;Soltero;Primario
+Santiago;28;Racing;Soltero;Secundario
+Lucas;39;Vélez;Divorciado;Terciario
+Nicolás;47;River;Divorciado;Secundario
+Nicolás;55;River;Casado;Terciario
+Santiago;35;River;Soltero;Universitario
+Nicolás;25;River;Soltero;Primario
+Nicolás;45;River;Viudo;Terciario
+Lucas;41;Independiente;Casado;Universitario
+Nicolás;52;Huracán;Casado;Secundario
+Nicolás;47;Independiente;Casado;Universitario
+Martín;54;Racing;Casado;Secundario
+Nicolás;26;River;Soltero;Universitario
+Matías;55;Vélez;Casado;Terciario
+Daniel;22;Gimnasia LP;Soltero;Secundario
+María;53;Huracán;Divorciado;Secundario
+Martín;70;Argentinos Juniors;Soltero;Terciario
+Nicolás;30;Boca;Divorciado;Primario
+Santiago;44;Newells;Soltero;Primario
+Lucas;46;Boca;Casado;Universitario
+Juan;67;Boca;Divorciado;Primario
+María;65;River;Divorciado;Secundario
+Nicolás;46;Racing;Divorciado;Terciario
+Nicolás;31;Independiente;Soltero;Universitario
+Juan;42;Independiente;Casado;Universitario
+Juan;39;River;Viudo;Universitario
+Juan;57;River;Casado;Terciario
+Federico;49;Boca;Casado;Terciario
+María;27;Boca;Casado;Universitario
+Lucía;77;River;Casado;Secundario
+Sofía;55;Boca;Soltero;Primario
+Santiago;41;Racing;Casado;Secundario
+Santiago;50;River;Soltero;Primario
+Lucía;55;San Lorenzo;Divorciado;Terciario
+Nicolás;44;Racing;Casado;Secundario
+Juan;51;Rosario Central;Casado;Terciario
+Juan;43;Boca;Soltero;Secundario
+Santiago;61;San Lorenzo;Soltero;Universitario
+Juan;23;San Lorenzo;Divorciado;Universitario
+Valentina;55;River;Soltero;Terciario
+Nicolás;28;Rosario Central;Viudo;Universitario
+Martín;24;Boca;Casado;Secundario
+Martín;59;San Lorenzo;Viudo;Secundario
+Sofía;43;Independiente;Casado;Universitario
+María;55;Rosario Central;Divorciado;Universitario
+Lucas;35;Independiente;Casado;Terciario
+Martín;47;Independiente;Divorciado;Primario
+Juan;70;Newells;Casado;Secundario
+Martín;61;Boca;Divorciado;Secundario
+Juan;33;Boca;Divorciado;Primario
+Martín;15;Boca;Soltero;Primario
+Ana;29;River;Viudo;Universitario
+Santiago;46;Newells;Divorciado;Secundario
+Pedro;65;River;Viudo;Terciario
+Juan;61;Independiente;Casado;Secundario
+Martín;34;Boca;Casado;Terciario
+Matías;37;Huracán;Casado;Primario
+Nicolás;28;River;Soltero;Primario
+Juan;17;Boca;Soltero;Primario
+Ana;38;Newells;Soltero;Universitario
+Santiago;52;San Lorenzo;Divorciado;Universitario
+Sofía;24;River;Casado;Universitario
+Ana;30;River;Soltero;Secundario
+Nicolás;72;Racing;Casado;Secundario
+Martín;30;Independiente;Casado;Primario
+Federico;49;Boca;Viudo;Terciario
+Federico;50;Racing;Viudo;Terciario
+Lucas;63;Gimnasia LP;Viudo;Primario
+Juan;42;River;Casado;Secundario
+Juan;29;Estudiantes;Soltero;Secundario
+Sofía;52;Rosario Central;Casado;Universitario
+Lucas;58;Racing;Divorciado;Secundario
+Martín;22;San Lorenzo;Casado;Secundario
+Ana;33;River;Casado;Primario
+Nicolás;56;Racing;Divorciado;Universitario
+Santiago;44;Vélez;Casado;Secundario
+Lucas;51;Newells;Viudo;Secundario
+Lucas;33;San Lorenzo;Soltero;Universitario
+Federico;57;River;Viudo;Secundario
+Nicolás;34;Argentinos Juniors;Casado;Secundario
+Daniel;43;Racing;Soltero;Secundario
+Nicolás;58;Boca;Soltero;Primario
+Martín;24;Gimnasia LP;Casado;Universitario
+Daniel;62;River;Divorciado;Terciario
+Daniel;59;Boca;Soltero;Secundario
+Lucas;34;Boca;Soltero;Terciario
+Martín;81;Racing;Soltero;Secundario
+Nicolás;35;Newells;Soltero;Primario
+José;45;Racing;Soltero;Terciario
+Nicolás;67;Racing;Divorciado;Universitario
+Federico;72;River;Divorciado;Terciario
+Lucía;35;Boca;Viudo;Secundario
+Federico;67;Racing;Divorciado;Terciario
+Martín;57;River;Viudo;Universitario
+Ana;45;Independiente;Casado;Secundario
+Ana;47;Boca;Divorciado;Universitario
+Daniel;80;Estudiantes;Soltero;Secundario
+Nicolás;39;Newells;Viudo;Terciario
+María;24;Independiente;Casado;Primario
+María;28;River;Soltero;Universitario
+Juan;44;Racing;Casado;Primario
+Juan;35;Huracán;Soltero;Universitario
+Juan;44;River;Viudo;Secundario
+Nicolás;70;Independiente;Casado;Terciario
+José;21;River;Soltero;Secundario
+Lucas;45;Boca;Soltero;Universitario
+Daniel;37;Gimnasia LP;Soltero;Terciario
+Valentina;26;Huracán;Divorciado;Secundario
+Nicolás;36;Boca;Soltero;Universitario
+Matías;19;San Lorenzo;Soltero;Secundario
+Valentina;40;River;Viudo;Universitario
+Martín;40;Vélez;Viudo;Universitario
+Lucía;49;Boca;Casado;Terciario
+Santiago;55;Estudiantes;Soltero;Universitario
+Lucía;37;Vélez;Casado;Universitario
+Ana;55;San Lorenzo;Viudo;Universitario
+Santiago;38;River;Divorciado;Universitario
+Juan;79;Boca;Soltero;Primario
+Nicolás;25;River;Soltero;Primario
+Nicolás;44;Gimnasia LP;Soltero;Universitario
+Lucas;48;Rosario Central;Soltero;Universitario
+Lucas;67;Vélez;Viudo;Secundario
+Santiago;46;Huracán;Viudo;Primario
+Valentina;26;Newells;Casado;Primario
+Martín;56;Gimnasia LP;Casado;Secundario
+Nicolás;71;River;Divorciado;Universitario
+Lucas;50;Huracán;Casado;Universitario
+Martín;27;San Lorenzo;Viudo;Universitario
+Camila;64;River;Soltero;Secundario
+Martín;36;Newells;Soltero;Primario
+Martín;46;Boca;Soltero;Universitario
+Juan;21;Rosario Central;Casado;Secundario
+Lucas;35;River;Casado;Universitario
+Lucas;63;Boca;Casado;Terciario
+Juan;40;River;Soltero;Primario
+Camila;42;Boca;Soltero;Terciario
+Juan;17;River;Soltero;Primario
+Daniel;43;River;Soltero;Secundario
+Juan;60;River;Casado;Secundario
+Daniel;63;Racing;Casado;Secundario
+Federico;44;Independiente;Soltero;Secundario
+María;32;Racing;Soltero;Universitario
+Santiago;34;River;Casado;Secundario
+Santiago;40;Racing;Soltero;Universitario
+Martín;60;Boca;Casado;Universitario
+Daniel;35;Huracán;Soltero;Terciario
+Santiago;61;San Lorenzo;Soltero;Primario
+Lucía;57;Boca;Divorciado;Secundario
+Juan;27;Boca;Divorciado;Universitario
+Camila;31;Huracán;Viudo;Terciario
+Ana;18;San Lorenzo;Soltero;Secundario
+Lucas;53;Racing;Divorciado;Secundario
+Martín;39;San Lorenzo;Soltero;Universitario
+Ana;58;Boca;Casado;Secundario
+Santiago;35;San Lorenzo;Viudo;Secundario
+Lucas;32;Independiente;Soltero;Secundario
+Lucas;18;Boca;Soltero;Secundario
+Federico;48;Independiente;Casado;Primario
+Matías;52;River;Viudo;Universitario
+Lucía;19;Boca;Soltero;Secundario
+Ana;28;Independiente;Viudo;Terciario
+Martín;33;River;Casado;Primario
+José;48;River;Casado;Universitario
+Juan;61;Boca;Casado;Primario
+Federico;44;Huracán;Soltero;Secundario
+Sofía;42;River;Casado;Terciario
+Valentina;42;Boca;Soltero;Secundario
+Juan;66;River;Viudo;Primario
+Santiago;52;Newells;Soltero;Universitario
+Martín;51;Independiente;Soltero;Terciario
+Martín;20;Estudiantes;Soltero;Secundario
+Martín;50;Vélez;Soltero;Terciario
+Lucía;50;Racing;Casado;Universitario
+Lucía;37;Gimnasia LP;Soltero;Terciario
+Sofía;50;Independiente;Casado;Primario
+Juan;29;Racing;Casado;Secundario
+Ana;69;Boca;Viudo;Universitario
+Sofía;49;River;Soltero;Secundario
+Juan;38;Rosario Central;Soltero;Secundario
+Nicolás;26;Boca;Casado;Universitario
+Martín;34;Estudiantes;Casado;Terciario
+Martín;23;Boca;Viudo;Secundario
+Martín;33;Racing;Casado;Terciario
+Daniel;45;Vélez;Casado;Secundario
+Nicolás;46;River;Casado;Terciario
+Federico;58;Newells;Casado;Secundario
+Federico;43;Racing;Casado;Primario
+Martín;67;Vélez;Casado;Secundario
+Ana;48;Boca;Casado;Universitario
+Lucía;34;River;Divorciado;Primario
+Matías;44;River;Soltero;Secundario
+Nicolás;31;Independiente;Soltero;Universitario
+Ana;37;Boca;Viudo;Secundario
+Pedro;66;Independiente;Casado;Universitario
+Juan;20;River;Soltero;Secundario
+María;65;River;Casado;Secundario
+Santiago;31;Boca;Divorciado;Universitario
+Martín;30;Boca;Soltero;Terciario
+Ana;25;River;Casado;Universitario
+Nicolás;31;Boca;Soltero;Terciario
+Sofía;21;Racing;Casado;Secundario
+Ana;38;Racing;Casado;Terciario
+Lucas;24;River;Casado;Secundario
+Juan;48;Racing;Viudo;Secundario
+Nicolás;23;River;Soltero;Universitario
+Martín;56;Independiente;Soltero;Primario
+Camila;40;Estudiantes;Viudo;Universitario
+Martín;40;River;Viudo;Universitario
+Nicolás;77;Vélez;Viudo;Universitario
+Matías;22;Rosario Central;Soltero;Secundario
+Pedro;53;Boca;Viudo;Terciario
+Juan;41;River;Casado;Universitario
+Matías;42;Boca;Casado;Secundario
+Federico;30;River;Soltero;Terciario
+Sofía;29;Independiente;Soltero;Universitario
+Pedro;31;Gimnasia LP;Casado;Secundario
+Martín;46;Racing;Casado;Secundario
+María;33;Boca;Divorciado;Universitario
+Federico;22;Independiente;Casado;Secundario
+Juan;35;Boca;Casado;Secundario
+María;67;Huracán;Divorciado;Secundario
+Pedro;27;Estudiantes;Soltero;Universitario
+Juan;41;Independiente;Casado;Primario
+Nicolás;47;Boca;Viudo;Universitario
+Valentina;58;Boca;Viudo;Terciario
+Juan;38;River;Soltero;Universitario
+Martín;55;Boca;Soltero;Secundario
+Ana;47;Vélez;Casado;Secundario
+José;44;River;Casado;Secundario
+Matías;36;San Lorenzo;Casado;Universitario
+Federico;38;Boca;Soltero;Terciario
+Federico;45;River;Divorciado;Primario
+Pedro;25;San Lorenzo;Casado;Primario
+Ana;52;Independiente;Casado;Terciario
+Daniel;38;Boca;Divorciado;Terciario
+Martín;48;Independiente;Soltero;Universitario
+Pedro;62;Boca;Soltero;Universitario
+Lucas;22;Boca;Casado;Secundario
+Lucas;26;Estudiantes;Casado;Terciario
+Lucas;77;River;Soltero;Secundario
+Pedro;20;Independiente;Soltero;Secundario
+Matías;51;River;Casado;Universitario
+Lucas;60;Boca;Soltero;Universitario
+Juan;53;Racing;Casado;Universitario
+Nicolás;68;Boca;Casado;Secundario
+María;75;Estudiantes;Soltero;Secundario
+Santiago;28;River;Viudo;Universitario
+Nicolás;61;Boca;Soltero;Universitario
+Pedro;63;Racing;Viudo;Secundario
+Santiago;51;River;Viudo;Universitario
+Martín;68;Boca;Viudo;Terciario
+Martín;51;River;Soltero;Primario
+María;32;Boca;Divorciado;Terciario
+Santiago;52;River;Viudo;Primario
+Daniel;40;River;Soltero;Primario
+María;45;Argentinos Juniors;Soltero;Universitario
+Lucas;64;Huracán;Soltero;Universitario
+Juan;21;Vélez;Viudo;Secundario
+Nicolás;72;Racing;Casado;Secundario
+Ana;49;Huracán;Viudo;Terciario
+Martín;55;Racing;Soltero;Secundario
+Valentina;38;Newells;Casado;Secundario
+Martín;31;River;Casado;Universitario
+María;61;San Lorenzo;Divorciado;Universitario
+Camila;55;Vélez;Soltero;Primario
+Lucas;34;Racing;Casado;Secundario
+Juan;37;Huracán;Soltero;Universitario
+Ana;30;River;Casado;Primario
+Santiago;49;Racing;Casado;Secundario
+Sofía;50;Boca;Casado;Universitario
+Nicolás;49;River;Casado;Primario
+Nicolás;72;Independiente;Casado;Terciario
+Martín;33;Boca;Viudo;Terciario
+Lucas;22;Vélez;Soltero;Secundario
+Lucía;35;Independiente;Soltero;Terciario
+Ana;30;Gimnasia LP;Casado;Universitario
+Lucía;56;Huracán;Casado;Universitario
+Daniel;43;River;Divorciado;Terciario
+Lucas;44;River;Soltero;Universitario
+Ana;22;River;Soltero;Secundario
+Santiago;32;Boca;Viudo;Terciario
+Martín;52;Estudiantes;Soltero;Secundario
+Lucas;23;River;Viudo;Secundario
+Nicolás;62;Boca;Viudo;Universitario
+Juan;71;Boca;Casado;Universitario
+Nicolás;23;Rosario Central;Casado;Universitario
+Nicolás;26;River;Casado;Universitario
+Martín;30;River;Casado;Universitario
+Santiago;24;River;Soltero;Universitario
+Camila;37;Racing;Divorciado;Universitario
+Pedro;57;San Lorenzo;Casado;Secundario
+Santiago;32;Estudiantes;Casado;Universitario
+Juan;59;River;Soltero;Terciario
+Juan;61;Boca;Soltero;Secundario
+Santiago;46;Boca;Soltero;Universitario
+Matías;47;Argentinos Juniors;Casado;Primario
+Juan;31;Boca;Soltero;Secundario
+Ana;37;River;Soltero;Secundario
+Valentina;59;Vélez;Viudo;Secundario
+Martín;27;Gimnasia LP;Divorciado;Secundario
+Nicolás;26;Huracán;Soltero;Universitario
+Martín;53;River;Casado;Universitario
+Ana;73;Argentinos Juniors;Soltero;Primario
+Ana;34;Vélez;Casado;Primario
+Daniel;63;Vélez;Divorciado;Primario
+Daniel;43;Estudiantes;Viudo;Secundario
+Nicolás;52;Independiente;Divorciado;Primario
+Sofía;43;River;Casado;Terciario
+Lucas;43;Independiente;Soltero;Universitario
+Lucas;46;Boca;Soltero;Primario
+Federico;49;Vélez;Viudo;Secundario
+Pedro;55;River;Soltero;Secundario
+María;58;Racing;Soltero;Universitario
+María;57;River;Casado;Terciario
+Ana;25;River;Soltero;Terciario
+Juan;44;Rosario Central;Soltero;Primario
+Ana;33;Racing;Divorciado;Universitario
+Pedro;38;Argentinos Juniors;Viudo;Primario
+Sofía;21;Newells;Casado;Secundario
+Lucas;31;Independiente;Viudo;Universitario
+Daniel;46;Boca;Soltero;Universitario
+Daniel;36;River;Divorciado;Secundario
+Juan;45;Boca;Viudo;Secundario
+Matías;32;Newells;Casado;Secundario
+Lucas;32;Rosario Central;Casado;Secundario
+María;80;Rosario Central;Soltero;Secundario
+María;17;Gimnasia LP;Soltero;Primario
+Martín;61;River;Divorciado;Universitario
+Federico;49;Boca;Casado;Universitario
+Nicolás;43;Huracán;Casado;Secundario
+Lucía;36;Newells;Casado;Primario
+Martín;38;River;Divorciado;Universitario
+Juan;26;River;Divorciado;Terciario
+Sofía;51;River;Soltero;Secundario
+Daniel;73;River;Soltero;Secundario
+Ana;22;River;Casado;Secundario
+Federico;66;Independiente;Casado;Universitario
+Santiago;52;San Lorenzo;Casado;Universitario
+Nicolás;34;Boca;Viudo;Secundario
+Nicolás;19;Independiente;Soltero;Secundario
+Lucas;46;San Lorenzo;Divorciado;Universitario
+Santiago;23;River;Viudo;Secundario
+Camila;40;Independiente;Casado;Universitario
+Martín;45;Boca;Viudo;Universitario
+Sofía;30;Argentinos Juniors;Casado;Universitario
+Juan;32;Racing;Casado;Primario
+Santiago;24;Newells;Viudo;Primario
+Lucía;32;Independiente;Soltero;Primario
+Daniel;31;Boca;Divorciado;Primario
+Nicolás;50;River;Viudo;Universitario
+Nicolás;43;River;Viudo;Secundario
+Lucas;57;Boca;Casado;Universitario
+Juan;40;Independiente;Divorciado;Primario
+Matías;45;River;Casado;Terciario
+Juan;72;San Lorenzo;Soltero;Secundario
+María;14;Gimnasia LP;Soltero;Primario
+Ana;35;Racing;Casado;Universitario
+Lucía;58;Huracán;Viudo;Universitario
+Martín;22;River;Casado;Secundario
+Pedro;29;River;Soltero;Universitario
+Santiago;30;Boca;Soltero;Universitario
+Martín;60;Newells;Casado;Terciario
+Martín;57;Racing;Casado;Secundario
+Ana;53;River;Casado;Terciario
+Martín;44;River;Soltero;Secundario
+Daniel;52;Boca;Soltero;Universitario
+Sofía;56;San Lorenzo;Soltero;Terciario
+Nicolás;63;Independiente;Casado;Secundario
+Martín;47;River;Viudo;Terciario
+Lucas;37;River;Soltero;Secundario
+Martín;80;Rosario Central;Divorciado;Secundario
+Lucía;24;Racing;Viudo;Universitario
+Ana;57;River;Divorciado;Secundario
+Lucía;24;Boca;Divorciado;Universitario
+Pedro;60;Boca;Soltero;Terciario
+Juan;25;Boca;Soltero;Secundario
+Pedro;27;River;Casado;Secundario
+María;30;Racing;Soltero;Universitario
+Pedro;71;Newells;Divorciado;Primario
+Juan;37;San Lorenzo;Viudo;Universitario
+Juan;60;River;Divorciado;Terciario

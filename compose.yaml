@@ -1,0 +1,59 @@
+name: tribuna
+services:
+  database:
+    image: postgres:17-alpine
+    container_name: tribuna-postgres
+    environment:
+      POSTGRES_DB: tribuna
+      POSTGRES_USER: tribuna
+      POSTGRES_PASSWORD: ${TRIBUNA_DB_PASSWORD:-tribuna_local}
+    volumes:
+      - tribuna-postgres:/var/lib/postgresql/data
+    networks: [tribuna]
+    healthcheck:
+      test: [CMD-SHELL, pg_isready -U tribuna -d tribuna]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+  backend:
+    image: maven:3.9-eclipse-temurin-21
+    container_name: tribuna-backend
+    working_dir: /workspace
+    command: mvn -B -ntp spring-boot:run
+    environment:
+      SPRING_DATASOURCE_URL: jdbc:postgresql://database:5432/tribuna
+      SPRING_DATASOURCE_USERNAME: tribuna
+      SPRING_DATASOURCE_PASSWORD: ${TRIBUNA_DB_PASSWORD:-tribuna_local}
+      MAVEN_OPTS: -Xmx512m
+    ports: ["127.0.0.1:18082:8080"]
+    volumes:
+      - ./backend:/workspace
+      - tribuna-maven:/root/.m2
+    networks: [tribuna]
+    depends_on:
+      database:
+        condition: service_healthy
+  frontend:
+    image: node:22-bookworm
+    container_name: tribuna-frontend
+    working_dir: /workspace
+    command: sh -c "npm ci --no-audit --no-fund && npm start -- --host 0.0.0.0 --port 4200 --poll 1500"
+    ports: ["127.0.0.1:14202:4200"]
+    volumes:
+      - ./frontend:/workspace
+      - tribuna-node:/workspace/node_modules
+      - tribuna-npm:/root/.npm
+    networks: [tribuna]
+    depends_on: [backend]
+networks:
+  tribuna:
+    name: tribuna-network
+volumes:
+  tribuna-postgres:
+    name: tribuna-postgres-data
+  tribuna-maven:
+    name: tribuna-maven-cache
+  tribuna-node:
+    name: tribuna-node-modules
+  tribuna-npm:
+    name: tribuna-npm-cache

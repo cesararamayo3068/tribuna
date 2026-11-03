@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: tribuna
+  datasource:
+    url: ${SPRING_DATASOURCE_URL:jdbc:postgresql://localhost:5432/tribuna}
+    username: ${SPRING_DATASOURCE_USERNAME:tribuna}
+    password: ${SPRING_DATASOURCE_PASSWORD:tribuna_local}
+    hikari:
+      maximum-pool-size: 3
+  sql:
+    init:
+      mode: always
+  servlet:
+    multipart:
+      max-file-size: 5MB
+      max-request-size: 6MB
+server:
+  port: ${PORT:8080}
+  error:
+    include-message: never

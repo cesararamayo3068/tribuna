@@ -1,0 +1,9 @@
+.env
+.env.*
+!.env.example
+**/node_modules/
+**/.angular/
+**/dist/
+**/target/
+*.log
+.DS_Store
