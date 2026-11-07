@@ -1,4 +1,4 @@
-import { Component, DestroyRef, ElementRef, computed, inject, signal, viewChild } from '@angular/core';
+import { Component, DestroyRef, ElementRef, computed, inject, input, signal, viewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
@@ -17,6 +17,7 @@ type Modal = 'tournament' | 'team' | 'generate' | 'result' | 'schedule' | 'remov
 export class TournamentComponent {
   private readonly http=inject(HttpClient);
   private readonly destroyRef=inject(DestroyRef);
+  readonly readOnly = input(false);
   readonly modal=viewChild.required<ElementRef<HTMLDialogElement>>('modal');
   readonly tournaments=signal<TournamentSummary[]>([]);
   readonly detail=signal<TournamentDetail|null>(null);
@@ -73,6 +74,7 @@ export class TournamentComponent {
   navigate(section:Section):void{this.section.set(section);this.notice.set('');this.teamSearch.set('');}
   played(match:TournamentMatch):boolean{return match.homeGoals!==null&&match.awayGoals!==null;}
   open(type:Modal,match:TournamentMatch|null=null,team:TournamentTeam|null=null):void {
+    if (this.readOnly()) return;
     this.modalType.set(type);this.modalError.set('');this.conflict.set(false);this.selectedMatch.set(match);this.selectedTeam.set(team);
     if(type==='tournament'){this.tournamentName='';this.season=String(new Date().getFullYear());this.location='';}
     if(type==='team'){this.teamName='';this.shortName='';this.teamColor=this.palette[(this.detail()?.teams.length??0)%this.palette.length];}

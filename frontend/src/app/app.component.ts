@@ -1,4 +1,4 @@
-import { Component, DestroyRef, ElementRef, computed, inject, signal, viewChild } from '@angular/core';
+import { Component, DestroyRef, ElementRef, computed, inject, input, signal, viewChild } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule } from '@angular/forms';
 import { HttpClient, HttpErrorResponse } from '@angular/common/http';
@@ -16,6 +16,7 @@ type View = 'summary' | 'teams' | 'members' | 'history';
 export class AppComponent {
   private readonly http = inject(HttpClient);
   private readonly destroyRef = inject(DestroyRef);
+  readonly readOnly = input(false);
   readonly dialog = viewChild.required<ElementRef<HTMLDialogElement>>('uploadDialog');
   readonly report = signal<Report | null>(null);
   readonly loading = signal(true);
@@ -74,6 +75,7 @@ export class AppComponent {
     });
   }
   openUpload(): void {
+    if (this.readOnly()) return;
     this.selectedFile.set(null); this.uploadError.set(''); this.dragging.set(false);
     this.dialog().nativeElement.showModal();
   }

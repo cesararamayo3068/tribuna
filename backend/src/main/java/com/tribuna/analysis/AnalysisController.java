@@ -4,6 +4,8 @@ import java.io.IOException;
 import java.util.List;
 import java.util.Map;
 import java.util.UUID;
+import org.springframework.core.env.Environment;
+import org.springframework.core.env.Profiles;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
@@ -17,9 +19,18 @@ import org.springframework.web.server.ResponseStatusException;
 public class AnalysisController {
     private final CsvAnalysisService service;
     private final AnalysisRepository repository;
-    public AnalysisController(CsvAnalysisService service, AnalysisRepository repository) { this.service = service; this.repository = repository; }
+    private final boolean demo;
+    public AnalysisController(CsvAnalysisService service, AnalysisRepository repository, Environment environment) {
+        this.service = service;
+        this.repository = repository;
+        this.demo = environment.acceptsProfiles(Profiles.of("demo"));
+    }
     @GetMapping("/health")
-    public Map<String, String> health() { return Map.of("status", repository.healthy() ? "UP" : "DOWN"); }
+    public ResponseEntity<Map<String, Object>> health() {
+        boolean healthy = repository.healthy();
+        return ResponseEntity.status(healthy ? HttpStatus.OK : HttpStatus.SERVICE_UNAVAILABLE)
+            .body(Map.of("status", healthy ? "UP" : "DOWN", "demo", demo));
+    }
     @GetMapping("/analyses/demo")
     public AnalysisReport demo() throws IOException {
         return service.analyze(new ClassPathResource("socios-demo.csv").getContentAsByteArray(), "socios-demo.csv", true);
