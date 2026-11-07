@@ -43,8 +43,6 @@ El módulo **Análisis de socios** permite cargar un CSV, explorar estadísticas
 | Entorno | Docker Compose, Node 22 y Maven dentro de contenedores |
 | Pruebas | JUnit y pruebas de integración con PostgreSQL |
 
-La [guía de despliegue](docs/deploy.md) describe cómo publicar una demo de solo lectura.
-
 ## Ejecutar con Docker
 
 Requisito: Docker Desktop iniciado, con contenedores Linux. No hace falta instalar Java, Node, Maven ni PostgreSQL en Windows.
